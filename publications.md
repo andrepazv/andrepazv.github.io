@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /publications/
+title: Peer-reviewed publications
 ---
 
 
