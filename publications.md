@@ -4,7 +4,6 @@ permalink: /publications/
 title: Peer-reviewed publications
 ---
 
-
 **[2020](#2020)**
 **[2019](#2019)**
 **[2018](#2018)**
