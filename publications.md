@@ -6,8 +6,8 @@ permalink: /publications/
 
 ### Table of Contents
 **[2020](#2020)**<br>
-**[Usage Instructions](#usage-instructions)**<br>
-**[Troubleshooting](#troubleshooting)**<br>
+**[2019](#2019)**<br>
+**[2018](#troubleshooting)**<br>
 **[Compatibility](#compatibility)**<br>
 **[Notes and Miscellaneous](#notes-and-miscellaneous)**<br>
 **[Building the Extension Bundles](#building-the-extension-bundles)**<br>
