@@ -1,3 +1,8 @@
+---
+layout: page
+permalink: /teaching/
+---
+
 <strong><span style="color: #993366">Professor</span></strong>
 <ul>
  	<li>Biogeography. Pontificia Universidad Javeriana. 2014-2015</li>
