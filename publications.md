@@ -4,9 +4,18 @@ permalink: /publications/
 ---
 
 
+### Table of Contents
+**[2020](#2020)**<br>
+**[Usage Instructions](#usage-instructions)**<br>
+**[Troubleshooting](#troubleshooting)**<br>
+**[Compatibility](#compatibility)**<br>
+**[Notes and Miscellaneous](#notes-and-miscellaneous)**<br>
+**[Building the Extension Bundles](#building-the-extension-bundles)**<br>
+**[Next Steps, Credits, Feedback, License](#next-steps)**<br>
+
 (* Equal contributions)
 
-<h3><strong><span style="color: #993366;">2020 </span></strong></h3>
+<h3><strong><span style="color: #993366;">#2020 </span></strong></h3>
 
 <span lang="ES">Velez MA, Robalino J, Cardenas JC, <b>Paz A</b>, Pacay E. 2020. </span>Is Collective Titling Enough to Protect Forests? Evidence from Afro-descendants Communities in the Colombian Pacific Region. <i>World Development</i>. 128:104837. [<a href="https://www.sciencedirect.com/science/article/pii/S0305750X19304863?dgcid=coauthor&amp;fbclid=IwAR3_2VE5mpYfSoeiTJwEysEGrzOSHdIL15MFwEvnfvGEhJuJ3Z-q7xnt8Yo">Get</a>]
 <h3><strong><span style="color: #993366;">2019</span></strong></h3>
