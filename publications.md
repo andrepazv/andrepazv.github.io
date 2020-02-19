@@ -6,16 +6,16 @@ permalink: /publications/
 
 
 (* Equal contributions)
-<h3>[toc]</h3>
-<strong><span style="color: #993366;">2020</span></strong>
+
+<h3><strong><span style="color: #993366;">2020 </span></strong></h3>
 
 <span lang="ES">Velez MA, Robalino J, Cardenas JC, <b>Paz A</b>, Pacay E. 2020. </span>Is Collective Titling Enough to Protect Forests? Evidence from Afro-descendants Communities in the Colombian Pacific Region. <i>World Development</i>. 128:104837. [<a href="https://www.sciencedirect.com/science/article/pii/S0305750X19304863?dgcid=coauthor&amp;fbclid=IwAR3_2VE5mpYfSoeiTJwEysEGrzOSHdIL15MFwEvnfvGEhJuJ3Z-q7xnt8Yo">Get</a>]
 <h3><strong><span style="color: #993366;">2019</span></strong></h3>
-<b>Paz A</b>, <b></b>Guarnizo CE. (2019).<b></b>Environmental ranges estimated from species distribution models are not good predictors of lizards and frogs physiological tolerances. <i>Evolutionary ecology. </i>Online Early [<a href="https://link.springer.com/article/10.1007/s10682-019-10022-3">Get</a>]
+<b>Paz A</b>, <b></b>Guarnizo CE. (2019).<b></b>Environmental ranges estimated from species distribution models are not good predictors of lizards and frogs physiological tolerances. <i>Evolutionary ecology. </i>34(1):89-99 [<a href="https://link.springer.com/article/10.1007/s10682-019-10022-3">Get</a>]
 
-Prates I, <strong>Paz A</strong>, Brown JL, Carnaval A (2019) Links between prey assemblages and poison frog toxins: a landscape ecology approach to assess how biotic interactions affect species phenotypes. <em>Ecology and Evolution</em>. Online Early [<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.5867?utm_campaign=Feed%3A+EcologyAndEvolution+%28Ecology+and+Evolution%29&amp;af=R&amp;utm_medium=feed&amp;utm_content=FeedBurner&amp;utm_source=feedburner">full text</a>]
+Prates I, <strong>Paz A</strong>, Brown JL, Carnaval A (2019) Links between prey assemblages and poison frog toxins: a landscape ecology approach to assess how biotic interactions affect species phenotypes. <em>Ecology and Evolution</em>. 9(24):14317-14329 [<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.5867?utm_campaign=Feed%3A+EcologyAndEvolution+%28Ecology+and+Evolution%29&amp;af=R&amp;utm_medium=feed&amp;utm_content=FeedBurner&amp;utm_source=feedburner">full text</a>]
 
-<b><span lang="ES">Paz A*, </span></b><span lang="ES">Gonzalez GA*, Crawford AJ. </span>(2019). Responses of frogs of different elevation ranges in the cordillera of Colombia to past climatic change. <i>11(1):e37055. Frontiers of biogeography <em>[<a href="https://escholarship.org/uc/item/32g8q7x3">full text</a>]</em></i>
+<b><span lang="ES">Paz A*, </span></b><span lang="ES">Gonzalez GA*, Crawford AJ. </span>(2019). Responses of frogs of different elevation ranges in the cordillera of Colombia to past climatic change. <i> Frontiers of biogeography. 11(1):e37055. <em>[<a href="https://escholarship.org/uc/item/32g8q7x3">full text</a>]</em></i>
 
 <strong>Paz A, </strong>Spanos Z, Brown JL, Lyra M, Haddad C, Rodrigues M, Carnaval AC. Phylogeography of Atlantic Forest glassfrogs (<em>Vitreorana</em>): when geography, climate dynamics and rivers matter. <em>Heredity. 122:545-557</em> [<a href="https://rdcu.be/9Y1T">full text</a>]
 <h3><strong><span style="color: #993366;">2018</span></strong></h3>
