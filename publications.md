@@ -7,11 +7,12 @@ permalink: /publications/
 ### Table of Contents
 **[2020](#2020)**<br>
 **[2019](#2019)**<br>
-**[2018](#troubleshooting)**<br>
-**[Compatibility](#compatibility)**<br>
-**[Notes and Miscellaneous](#notes-and-miscellaneous)**<br>
-**[Building the Extension Bundles](#building-the-extension-bundles)**<br>
-**[Next Steps, Credits, Feedback, License](#next-steps)**<br>
+**[2018](#2018)**<br>
+**[2017](#2017)**<br>
+**[2016](#2016)**<br>
+**[2015](#2015)**<br>
+**[2014](#2014)**<br>
+**[2012](#2012)**<br>
 
 (* Equal contributions)
 
