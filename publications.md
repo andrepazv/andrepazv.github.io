@@ -3,7 +3,6 @@ layout: page
 permalink: /publications/
 ---
 
-
 ### Publication Year 
 **[2020](#2020)**
 **[2019](#2019)**
