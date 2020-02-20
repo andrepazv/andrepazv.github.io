@@ -149,11 +149,6 @@ img {
 //
 // .masthead
 //
-.page-header {
-  color: #ffff;
-  background-color: #A067AB;
-  background-image: linear-gradient(120deg, #5073B8, #A067AB);
-}
 
 .wrapper-masthead {
   margin-bottom: 50px;
@@ -162,7 +157,9 @@ img {
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
-
+ color: #ffff;
+  background-color: #A067AB;
+  background-image: linear-gradient(120deg, #5073B8, #A067AB);
   @include mobile {
     text-align: center;
   }
