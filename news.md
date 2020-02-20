@@ -2,28 +2,7 @@
 
 <h3>Interview with The Female Scientist </h3>
 
-<!DOCTYPE html>
-<html>
-<style>
-a:link, a:visited {
-  background-color: #f44336;
-  color: white;
-  padding: 14px 25px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-}
+<h4>Link Button</h4>
+<a href="https://thefemalescientist.com/portrait/andrea-paz/826/meet-andrea-paz-a-biologist-focusing-on-species-distributions-and-diversity-in-neotropical-amphibians/">Interview</a>
 
-a:hover, a:active {
-  background-color: red;
-}
-</style>
-<body>
-
-<h2>Link Button</h2>
-<p>A link styled as a button:</p>
-<a href="default.asp" target="_blank">This is a link</a>
-
-</body>
-</html>
 
