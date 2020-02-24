@@ -76,6 +76,12 @@ color: $blue;
     color: $blue;
   }
 }
+b {
+  text-decoration: none;
+	cursor: pointer;
+  &:hover, &:active {
+  }
+}
 
 ul, ol {
   margin: 15px 0;
