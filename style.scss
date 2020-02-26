@@ -81,11 +81,15 @@ color: $blue;
     color: $blue;
   }
 }
-b {
+a1 {
+color: $black;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
+    color: $black;
   }
+}
+
 }
 
 ul, ol {
