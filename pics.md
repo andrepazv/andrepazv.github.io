@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /pictures/
+permalink: /pics/
 title: Pictures from the field and more
 ---
 <style>
