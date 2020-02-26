@@ -1,6 +1,7 @@
 ---
-layout: default
-
+layout: page
+permalink: /pictures/
+title: Pictures from the field and more
 ---
 <style>
 img {
