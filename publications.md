@@ -19,7 +19,8 @@ title: Peer-reviewed publications
 <h3><strong><span style="color: #993366;">2020 </span></strong></h3>
 
 Betancourth-Cundar M, Palacios-Rodriguez P, Mejia-Vargas D, <strong>Paz A</strong>, Amezquita A (2020) Genetic differentiation and overexploitation history of the critically endangered Lehmann ’ s Poison Frog : Oophaga lehmanni. <i>Conservation Genetics</i>.[<a href="https://link.springer.com/article/10.1007%2Fs10592-020-01262-w">Get</a>]
-<b><span lang="ES">Velez MA, Robalino J, Cardenas JC, <b>Paz A</b>, Pacay E. 2020. </span>Is Collective Titling Enough to Protect Forests? Evidence from Afro-descendants Communities in the Colombian Pacific Region. <i>World Development</i>. 128:104837. [<a href="https://www.sciencedirect.com/science/article/pii/S0305750X19304863?dgcid=coauthor&amp;fbclid=IwAR3_2VE5mpYfSoeiTJwEysEGrzOSHdIL15MFwEvnfvGEhJuJ3Z-q7xnt8Yo">Get</a>]
+
+<b><span lang="ES">Velez MA, Robalino J, Cardenas JC, <strong>Paz A</strong>, Pacay E. 2020. </span>Is Collective Titling Enough to Protect Forests? Evidence from Afro-descendants Communities in the Colombian Pacific Region. <i>World Development</i>. 128:104837. [<a href="https://www.sciencedirect.com/science/article/pii/S0305750X19304863?dgcid=coauthor&amp;fbclid=IwAR3_2VE5mpYfSoeiTJwEysEGrzOSHdIL15MFwEvnfvGEhJuJ3Z-q7xnt8Yo">Get</a>]
 <h3><strong><span style="color: #993366;">2019</span></strong></h3>
 <b>Paz A</b>, <b></b>Guarnizo CE. (2019).<b></b>Environmental ranges estimated from species distribution models are not good predictors of lizards and frogs physiological tolerances. <i>Evolutionary ecology. </i>34(1):89-99 [<a href="https://link.springer.com/article/10.1007/s10682-019-10022-3">Get</a>]
 
