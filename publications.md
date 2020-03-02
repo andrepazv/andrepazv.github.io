@@ -20,7 +20,7 @@ title: Peer-reviewed publications
 
 Betancourth-Cundar M, Palacios-Rodriguez P, Mejia-Vargas D, <strong>Paz A</strong>, Amezquita A (2020) Genetic differentiation and overexploitation history of the critically endangered Lehmann ’ s Poison Frog : Oophaga lehmanni. <i>Conservation Genetics</i>.[<a href="https://link.springer.com/article/10.1007%2Fs10592-020-01262-w">Get</a>]
 
-<span lang="ES">Velez MA, Robalino J, Cardenas JC, <strong>Paz A</strong>, Pacay E. 2020. </span>Is Collective Titling Enough to Protect Forests? Evidence from Afro-descendants Communities in the Colombian Pacific Region. <i>World Development</i>. 128:104837. [<a href="https://www.sciencedirect.com/science/article/pii/S0305750X19304863?dgcid=coauthor&amp;fbclid=IwAR3_2VE5mpYfSoeiTJwEysEGrzOSHdIL15MFwEvnfvGEhJuJ3Z-q7xnt8Yo">Get</a>]
+<span lang="ES">Velez MA, Robalino J, Cardenas JC, <strong>Paz A</strong>, Pacay E (2020) </span>Is Collective Titling Enough to Protect Forests? Evidence from Afro-descendants Communities in the Colombian Pacific Region. <i>World Development</i>. 128:104837. [<a href="https://www.sciencedirect.com/science/article/pii/S0305750X19304863?dgcid=coauthor&amp;fbclid=IwAR3_2VE5mpYfSoeiTJwEysEGrzOSHdIL15MFwEvnfvGEhJuJ3Z-q7xnt8Yo">Get</a>]
 <h3><strong><span style="color: #993366;">2019</span></strong></h3>
 <b>Paz A</b>, <b></b>Guarnizo CE. (2019).<b></b>Environmental ranges estimated from species distribution models are not good predictors of lizards and frogs physiological tolerances. <i>Evolutionary ecology. </i>34(1):89-99 [<a href="https://link.springer.com/article/10.1007/s10682-019-10022-3">Get</a>]
 
@@ -28,7 +28,7 @@ Prates I, <strong>Paz A</strong>, Brown JL, Carnaval A (2019) Links between pr
 
 <b><span lang="ES">Paz A*, </span></b><span lang="ES">Gonzalez GA*, Crawford AJ. </span>(2019). Responses of frogs of different elevation ranges in the cordillera of Colombia to past climatic change. <i> Frontiers of biogeography. 11(1):e37055. <em>[<a href="https://escholarship.org/uc/item/32g8q7x3">full text</a>]</em></i>
 
-<strong>Paz A, </strong>Spanos Z, Brown JL, Lyra M, Haddad C, Rodrigues M, Carnaval AC. Phylogeography of Atlantic Forest glassfrogs (<em>Vitreorana</em>): when geography, climate dynamics and rivers matter. <em>Heredity. 122:545-557</em> [<a href="https://rdcu.be/9Y1T">full text</a>]
+<strong>Paz A, </strong>Spanos Z, Brown JL, Lyra M, Haddad C, Rodrigues M, Carnaval AC (2019). Phylogeography of Atlantic Forest glassfrogs (<em>Vitreorana</em>): when geography, climate dynamics and rivers matter. <em>Heredity. 122:545-557</em> [<a href="https://rdcu.be/9Y1T">full text</a>]
 <h3><strong><span style="color: #993366;">2018</span></strong></h3>
 Rueda X, <strong>Paz A</strong>, Gibbs-Plessl T, Leon R, Moyano B, &amp; Lambin EF. (2018) Smallholders at a Crossroad: Intensify or Fall behind? Exploring Alternative Livelihood Strategies in a Globalized World. <i>Buisness Strategy and the Environment</i>, 27(2): 215–229.[<a href="http://onlinelibrary.wiley.com/doi/10.1002/bse.2011/full">Get</a>]
 
