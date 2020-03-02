@@ -18,11 +18,11 @@ title: Peer-reviewed publications
 
 <h3><strong><span style="color: #993366;">2020 </span></strong></h3>
 
-Betancourth-Cundar M, Palacios-Rodriguez P, Mejia-Vargas D, <strong>Paz A</strong>, Amezquita A (2020) Genetic differentiation and overexploitation history of the critically endangered Lehmann ’ s Poison Frog : Oophaga lehmanni. <i>Conservation Genetics</i>.[<a href="https://link.springer.com/article/10.1007%2Fs10592-020-01262-w">Get</a>][br]
+Betancourth-Cundar M, Palacios-Rodriguez P, Mejia-Vargas D, <strong>Paz A</strong>, Amezquita A (2020) Genetic differentiation and overexploitation history of the critically endangered Lehmann ’ s Poison Frog : Oophaga lehmanni. <i>Conservation Genetics</i>.[<a href="https://link.springer.com/article/10.1007%2Fs10592-020-01262-w">Get</a>]
 
 <span lang="ES">Velez MA, Robalino J, Cardenas JC, <strong>Paz A</strong>, Pacay E. 2020. </span>Is Collective Titling Enough to Protect Forests? Evidence from Afro-descendants Communities in the Colombian Pacific Region. <i>World Development</i>. 128:104837. [<a href="https://www.sciencedirect.com/science/article/pii/S0305750X19304863?dgcid=coauthor&amp;fbclid=IwAR3_2VE5mpYfSoeiTJwEysEGrzOSHdIL15MFwEvnfvGEhJuJ3Z-q7xnt8Yo">Get</a>]
 <h3><strong><span style="color: #993366;">2019</span></strong></h3>
-<b>Paz A</b>, <b></b>Guarnizo CE. (2019).<b></b>Environmental ranges estimated from species distribution models are not good predictors of lizards and frogs physiological tolerances. <i>Evolutionary ecology. </i>34(1):89-99 [<a href="https://link.springer.com/article/10.1007/s10682-019-10022-3">Get</a>][br]
+<b>Paz A</b>, <b></b>Guarnizo CE. (2019).<b></b>Environmental ranges estimated from species distribution models are not good predictors of lizards and frogs physiological tolerances. <i>Evolutionary ecology. </i>34(1):89-99 [<a href="https://link.springer.com/article/10.1007/s10682-019-10022-3">Get</a>]
 
 Prates I, <strong>Paz A</strong>, Brown JL, Carnaval A (2019) Links between prey assemblages and poison frog toxins: a landscape ecology approach to assess how biotic interactions affect species phenotypes. <em>Ecology and Evolution</em>. 9(24):14317-14329 [<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.5867?utm_campaign=Feed%3A+EcologyAndEvolution+%28Ecology+and+Evolution%29&amp;af=R&amp;utm_medium=feed&amp;utm_content=FeedBurner&amp;utm_source=feedburner">full text</a>]
 
@@ -30,11 +30,11 @@ Prates I, <strong>Paz A</strong>, Brown JL, Carnaval A (2019) Links between pr
 
 <strong>Paz A, </strong>Spanos Z, Brown JL, Lyra M, Haddad C, Rodrigues M, Carnaval AC. Phylogeography of Atlantic Forest glassfrogs (<em>Vitreorana</em>): when geography, climate dynamics and rivers matter. <em>Heredity. 122:545-557</em> [<a href="https://rdcu.be/9Y1T">full text</a>]
 <h3><strong><span style="color: #993366;">2018</span></strong></h3>
-Rueda X, <strong>Paz A</strong>, Gibbs-Plessl T, Leon R, Moyano B, &amp; Lambin EF. (2018) Smallholders at a Crossroad: Intensify or Fall behind? Exploring Alternative Livelihood Strategies in a Globalized World. <i>Buisness Strategy and the Environment</i>, 27(2): 215–229.[<a href="http://onlinelibrary.wiley.com/doi/10.1002/bse.2011/full">Get</a>][br]
+Rueda X, <strong>Paz A</strong>, Gibbs-Plessl T, Leon R, Moyano B, &amp; Lambin EF. (2018) Smallholders at a Crossroad: Intensify or Fall behind? Exploring Alternative Livelihood Strategies in a Globalized World. <i>Buisness Strategy and the Environment</i>, 27(2): 215–229.[<a href="http://onlinelibrary.wiley.com/doi/10.1002/bse.2011/full">Get</a>]
 
 Gonzalez C, Leon C, <strong>Paz A</strong>, Lopez M, Molina G, Toro D, Ortiz M, Cordovez JM, Atencia MC, Aguilera G, Tovar C. (2018). Diversity patterns, <em>Leishmania</em> infection, and feeding preferences of Phlebotominae sand flies in rural human settlements in northern Colombia. <em>PLoS ONE. </em>13(1): e0190686 <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0190686">[full text]</a>
 <h3><strong><span style="color: #993366;">2017 </span></strong></h3>
-Gonzalez C, Molina G, Leon C, Salcedo N, Rondon S, <strong>Paz A</strong>, Atencia MC, Tovar C, Ortiz M. (2017). Entomological characterization of malaria in northern Colombia through vector and parasite species identification, and analyses of spatial distribution and infection rates. <em>Malaria Journal.</em> 16(1):431 [<a href="http://rdcu.be/xNyf">Get</a>][br]
+Gonzalez C, Molina G, Leon C, Salcedo N, Rondon S, <strong>Paz A</strong>, Atencia MC, Tovar C, Ortiz M. (2017). Entomological characterization of malaria in northern Colombia through vector and parasite species identification, and analyses of spatial distribution and infection rates. <em>Malaria Journal.</em> 16(1):431 [<a href="http://rdcu.be/xNyf">Get</a>]
 
 Flechas SV*, <strong>Paz A*</strong>, Crawford AJ, Sarmiento C, Acevedo A, Arboleda A, Bolívar-García W, Echeverry-Sandoval CL, Franco R, Mojica C, Muñoz A, Palacios-Rodríguez P, Posso-Terranova A, Quintero-Marín MP, Rueda-Solano LA, Castro-H F, Amézquita A. (2017). Current and Predicted Distribution of the Pathogenic Fungus Batrachochytrium dendrobatidis in Colombia, a Hotspot of Amphibian Biodiversity. <em>Biotropica. 49(5):685-694 </em>[<a href="http://onlinelibrary.wiley.com/doi/10.1111/btp.12457/full">Get</a>]
 
