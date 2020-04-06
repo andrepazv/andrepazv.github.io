@@ -10,7 +10,7 @@ title: News
 
 
 A sci comm video about our work on collective property in Afro-Colombian communities and deforestation (in spanish):
-<img" src="/images/CienciaCafe.jpg" width="200">  
+<img src="/images/CienciaCafe.jpg" width="200">  
    
 <a href="https://www.youtube.com/watch?v=EXDzZW6zUX8&t=2s"> Interview with Ciencia Cafe Pa' Sumercé </a>
 
