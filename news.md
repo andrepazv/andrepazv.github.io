@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /news/
-title: News
+title:  
 ---
 
 <h3><span style="color: #993366;">Here are some links to press coverage about me and my work</span></h3>
