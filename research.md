@@ -5,8 +5,8 @@ title: Research
 ---
 
 
-Welcome to my research page! This page is under construction so thank you for your patience
- My main research right now is focused on patterns of neotropical diversity and their environmental correlates and the phylogeography of neotropical amphibians. I had in the However,I am generally interested in spatially explicit research and I love interdisciplinary research so I am or have been involved in projects spanning from the study of deforestation drivers to the distribution of tropical diseases. Here is a small summary of some of those projects. If you want to know more don't hesitate to send me an email! 
+Welcome to my research page! This page is under construction so thank you for your patience  
+My main research right now is focused on patterns of neotropical diversity and their environmental correlates and the phylogeography of neotropical amphibians. I had in the However,I am generally interested in spatially explicit research and I love interdisciplinary research so I am or have been involved in projects spanning from the study of deforestation drivers to the distribution of tropical diseases. Here is a small summary of some of those projects. If you want to know more don't hesitate to send me an email! 
 
 Mapping diversity patterns in the neotropics and understanding their environmental correlates
 
