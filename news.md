@@ -8,7 +8,7 @@ title: News
 
 <h3> A little about my experience as a woman in science: <a href="https://thefemalescientist.com/portrait/andrea-paz/826/meet-andrea-paz-a-biologist-focusing-on-species-distributions-and-diversity-in-neotropical-amphibians/">Interview with The Female Scientist </a></h3>
 
-<img src="images/Screen Shot 2020-04-06 at 11.07.21 AM.png"> <h3> A sci comm video about our work on Collective property in afro colombian communities and deforestation (in spanish):<a href="https://www.youtube.com/watch?v=EXDzZW6zUX8&t=2s"> Interview with Ciencia Cafe Pa' Sumercé </a></h3>
+<img style="float: right;" src="images/Screen Shot 2020-04-06 at 11.07.21 AM.png"> <h3> A sci comm video about our work on Collective property in afro colombian communities and deforestation (in spanish):<a href="https://www.youtube.com/watch?v=EXDzZW6zUX8&t=2s"> Interview with Ciencia Cafe Pa' Sumercé </a></h3>
 
 
 
