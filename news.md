@@ -11,7 +11,8 @@ title: News
 <div>
   <img style="float: right;" src="images/CienciaCafe.jpg" alt="alt_text" />
   </div>
+  <div>
   <h3> A sci comm video about our work on collective property in Afro-Colombian communities and deforestation (in spanish):<a href="https://www.youtube.com/watch?v=EXDzZW6zUX8&t=2s"> Interview with Ciencia Cafe Pa' Sumercé </a></h3>
-
+</div>
 
 
