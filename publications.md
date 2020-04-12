@@ -6,13 +6,12 @@ title: Peer-reviewed publications
 
 **[2020](#2020)**
 **[2019](#2019)**
-**[2018](#2018)**
+**[2018](2018)**
 **[2017](#2017)**
 **[2016](#2016)**
 **[2015](#2015)**
 **[2014](#2014)**
 **[2012](#2012)**
-<a href="#arriba">arriba</a>.
 **[2011](#2011)**<br>
 
 (* Equal contributions)
@@ -31,8 +30,9 @@ Prates I, <strong>Paz A</strong>, Brown JL, Carnaval A (2019) Links between pr
 <b><span lang="ES">Paz A*, </span></b><span lang="ES">Gonzalez GA*, Crawford AJ. </span>(2019). Responses of frogs of different elevation ranges in the cordillera of Colombia to past climatic change. <i> Frontiers of biogeography. 11(1):e37055. <em>[<a href="https://escholarship.org/uc/item/32g8q7x3">full text</a>]</em></i>
 
 <strong>Paz A, </strong>Spanos Z, Brown JL, Lyra M, Haddad C, Rodrigues M, Carnaval AC (2019). Phylogeography of Atlantic Forest glassfrogs (<em>Vitreorana</em>): when geography, climate dynamics and rivers matter. <em>Heredity. 122:545-557</em> [<a href="https://rdcu.be/9Y1T">full text</a>]
+<a name="2018"></a>
 <h3><strong><span style="color: #993366;">2018</span></strong></h3>
-<a name="arriba"></a>
+
 Rueda X, <strong>Paz A</strong>, Gibbs-Plessl T, Leon R, Moyano B, &amp; Lambin EF. (2018) Smallholders at a Crossroad: Intensify or Fall behind? Exploring Alternative Livelihood Strategies in a Globalized World. <i>Buisness Strategy and the Environment</i>, 27(2): 215–229.[<a href="http://onlinelibrary.wiley.com/doi/10.1002/bse.2011/full">Get</a>]
 
 Gonzalez C, Leon C, <strong>Paz A</strong>, Lopez M, Molina G, Toro D, Ortiz M, Cordovez JM, Atencia MC, Aguilera G, Tovar C. (2018). Diversity patterns, <em>Leishmania</em> infection, and feeding preferences of Phlebotominae sand flies in rural human settlements in northern Colombia. <em>PLoS ONE. </em>13(1): e0190686 <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0190686">[full text]</a>
