@@ -12,9 +12,11 @@ title: Peer-reviewed publications
 **[2015](#2015)**
 **[2014](#2014)**
 **[2012](#2012)**
+<a href="#arriba">arriba</a>.
 **[2011](#2011)**<br>
 
 (* Equal contributions)
+
 
 <h3><strong><span style="color: #993366;">2020 </span></strong></h3>
 
@@ -30,6 +32,7 @@ Prates I, <strong>Paz A</strong>, Brown JL, Carnaval A (2019) Links between pr
 
 <strong>Paz A, </strong>Spanos Z, Brown JL, Lyra M, Haddad C, Rodrigues M, Carnaval AC (2019). Phylogeography of Atlantic Forest glassfrogs (<em>Vitreorana</em>): when geography, climate dynamics and rivers matter. <em>Heredity. 122:545-557</em> [<a href="https://rdcu.be/9Y1T">full text</a>]
 <h3><strong><span style="color: #993366;">2018</span></strong></h3>
+<a name="arriba"></a>
 Rueda X, <strong>Paz A</strong>, Gibbs-Plessl T, Leon R, Moyano B, &amp; Lambin EF. (2018) Smallholders at a Crossroad: Intensify or Fall behind? Exploring Alternative Livelihood Strategies in a Globalized World. <i>Buisness Strategy and the Environment</i>, 27(2): 215–229.[<a href="http://onlinelibrary.wiley.com/doi/10.1002/bse.2011/full">Get</a>]
 
 Gonzalez C, Leon C, <strong>Paz A</strong>, Lopez M, Molina G, Toro D, Ortiz M, Cordovez JM, Atencia MC, Aguilera G, Tovar C. (2018). Diversity patterns, <em>Leishmania</em> infection, and feeding preferences of Phlebotominae sand flies in rural human settlements in northern Colombia. <em>PLoS ONE. </em>13(1): e0190686 <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0190686">[full text]</a>
