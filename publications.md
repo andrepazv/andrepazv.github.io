@@ -19,7 +19,7 @@ title: Peer-reviewed publications
 <a name="2020"></a>
 <h3><strong><span style="color: #993366;">2020 </span></strong></h3>
 
-Betancourth-Cundar M, Palacios-Rodriguez P, Mejia-Vargas D, <strong>Paz A</strong>, Amezquita A.(2020). Genetic differentiation and overexploitation history of the critically endangered Lehmann ’ s Poison Frog : Oophaga lehmanni. <i>Conservation Genetics</i>.[<a href="https://link.springer.com/article/10.1007%2Fs10592-020-01262-w">Get</a>]
+Betancourth-Cundar M, Palacios-Rodriguez P, Mejia-Vargas D, <strong>Paz A</strong>, Amezquita A.(2020). Genetic differentiation and overexploitation history of the critically endangered Lehmann ’ s Poison Frog : Oophaga lehmanni. <i>Conservation Genetics</i>.[[Get]](https://link.springer.com/article/10.1007%2Fs10592-020-01262-w){:target="_blank"}
 
 <span lang="ES">Velez MA, Robalino J, Cardenas JC, <strong>Paz A</strong>, Pacay E.(2020).</span>Is Collective Titling Enough to Protect Forests? Evidence from Afro-descendants Communities in the Colombian Pacific Region. <i>World Development</i>. 128:104837. [<a href="https://www.sciencedirect.com/science/article/pii/S0305750X19304863?dgcid=coauthor&amp;fbclid=IwAR3_2VE5mpYfSoeiTJwEysEGrzOSHdIL15MFwEvnfvGEhJuJ3Z-q7xnt8Yo">Get</a>]
 
