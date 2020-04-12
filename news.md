@@ -15,8 +15,7 @@ title:
 <strong>A sci comm video  on collective property in Afro-Colombian communities and deforestation (in spanish):</strong>
 </div>
 <img src="/images/CienciaCafe.jpg" width="200">     
-<a href="https://www.youtube.com/watch?v=EXDzZW6zUX8&t=2s" target=”_blank”> Interview with Ciencia Cafe Pa' Sumercé </a>
-
-
+<a href="https://www.youtube.com/watch?v=EXDzZW6zUX8&t=2s" target=”_blank> Interview with Ciencia Cafe Pa' Sumercé </a>
+[Interview with Ciencia Cafe Pa' Sumercé](https://www.youtube.com/watch?v=EXDzZW6zUX8&t=2s){:target="_blank"}
 
 
