@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Peer-reviewed publications
 ---
-<img style="float: right;" src="/images/melocactus"/>
+<img style="float: right;" src="/images/melocactus.png"/>
 **<a href="#2020">2020</a>**
 **<a href="#2019">2019</a>**
 **<a href="#2018">2018</a>**
