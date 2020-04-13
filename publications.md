@@ -83,7 +83,7 @@ Portocarrero-Aya M, Corzo G, Días-Pulido A, Gonzalez MF, Longo M, Mesa L, <stro
 <a name="2012"></a>
 <h3><strong><span style="color: #993366;">2012</span></strong></h3>
 
-<strong><img class=" wp-image-161 alignleft" src="/images/Jbio_cover.jpg" alt="cover" width="89" height="123" />Paz A</strong>, Crawford AJ (2012) Molecular-based rapid inventories of sympatric diversity: A comparison of DNA barcode clustering methods applied to geography-based vs. clade-based sampling of amphibians<em>.</em> <em>Journal of Biosciences</em>. 37(5):887-896. [[Get]](http://link.springer.com/article/10.1007%2Fs12038-012-9255-x){:target="_blank"}
+<strong><img  style="float: left;" src="/images/Jbio_cover.jpg" alt="cover" width="91" height="123" />Paz A</strong>, Crawford AJ (2012) Molecular-based rapid inventories of sympatric diversity: A comparison of DNA barcode clustering methods applied to geography-based vs. clade-based sampling of amphibians<em>.</em> <em>Journal of Biosciences</em>. 37(5):887-896. [[Get]](http://link.springer.com/article/10.1007%2Fs12038-012-9255-x){:target="_blank"}
 
 <a name="2011"></a>
 <h3><strong><span style="color: #993366;">2011</span></strong></h3>
