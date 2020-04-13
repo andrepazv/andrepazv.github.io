@@ -64,7 +64,7 @@ Mendoza AM, Torres MF, <strong>Paz A</strong>, Trujillo-Arias N, Lopez-Alvarez D
 <a name="2015"></a>
 <h3><strong><span style="color: #993366;">2015</span></strong></h3>  
 <table align="left">
-  <tr><td style="width:75%;height:100%;vertical-align: middle;"><strong>Paz A, </strong>Ibáñez R, Lips KR, Crawford AJ. (2015). Testing the role of ecology and life history in structuring genetic variation across a landscape: A trait-based phylogeographic approach. <em>Molecular Ecology.  </em>  24(14): 3723-3737. <a href="http://onlinelibrary.wiley.com/doi/10.1111/mec.13275/abstract" target="_blank">[Get]</a></td><td style="height:100%;vertical-align: middle;"><img src="/images/molecol_cover.png" alt="cover"/></td></tr>
+  <tr><td style="width:65%;height:100%;vertical-align: middle;"><strong>Paz A, </strong>Ibáñez R, Lips KR, Crawford AJ. (2015). Testing the role of ecology and life history in structuring genetic variation across a landscape: A trait-based phylogeographic approach. <em>Molecular Ecology.  </em>  24(14): 3723-3737. <a href="http://onlinelibrary.wiley.com/doi/10.1111/mec.13275/abstract" target="_blank">[Get]</a></td><td style="height:100%;vertical-align: middle;"><img src="/images/molecol_cover.png" alt="cover"/></td></tr>
 </table>
 <br>  
 &nbsp; &nbsp;  
@@ -79,8 +79,11 @@ Portocarrero-Aya M, Corzo G, Días-Pulido A, Gonzalez MF, Longo M, Mesa L, <stro
 
 <a name="2012"></a>
 <h3><strong><span style="color: #993366;">2012</span></strong></h3>
-
-<strong><img  style="float: right;" src="/images/Jbio_cover.jpg" alt="cover" width="91" height="123" />Paz A</strong>, Crawford AJ (2012) Molecular-based rapid inventories of sympatric diversity: A comparison of DNA barcode clustering methods applied to geography-based vs. clade-based sampling of amphibians<em>.</em> <em>Journal of Biosciences</em>. 37(5):887-896. [[Get]](http://link.springer.com/article/10.1007%2Fs12038-012-9255-x){:target="_blank"}
+<table align="left">
+  <tr><td style="width:65%;height:100%;vertical-align: middle;"><strong>Paz A</strong>, Crawford AJ (2012) Molecular-based rapid inventories of sympatric diversity: A comparison of DNA barcode clustering methods applied to geography-based vs. clade-based sampling of amphibians<em>.</em> <em>Journal of Biosciences</em>. 37(5):887-896. <a href="http://link.springer.com/article/10.1007%2Fs12038-012-9255-x" target="_blank">[Get]</a></td><td style="height:100%;vertical-align: middle;"><img src="/images/Jbio_cover.jpg" alt="cover"/></td></tr>
+</table>
+<br>  
+&nbsp; &nbsp;  
 
 <a name="2011"></a>
 <h3><strong><span style="color: #993366;">2011</span></strong></h3>
