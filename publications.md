@@ -64,8 +64,8 @@ Mendoza AM, Torres MF, <strong>Paz A</strong>, Trujillo-Arias N, Lopez-Alvarez D
 <a name="2015"></a>
 <h3><strong><span style="color: #993366;">2015</span></strong></h3>  
 
-
-<strong>Paz A, </strong>Ibáñez R, Lips KR, Crawford AJ. (2015). Testing the role of ecology and life history in structuring genetic variation across a landscape:<img style="float: left;" src="/images/molecol_cover.png" alt="cover" width="110"/>
+<img style="float: left;" src="/images/molecol_cover.png" alt="cover" width="110"/>
+<strong>Paz A, </strong>Ibáñez R, Lips KR, Crawford AJ. (2015). Testing the role of ecology and life history in structuring genetic variation across a landscape:
  A trait-based phylogeographic approach. <em>Molecular Ecology.  </em>  24(14): 3723-3737.  [[Get]](http://onlinelibrary.wiley.com/doi/10.1111/mec.13275/abstract){:target="_blank"}  
 &nbsp; &nbsp; &nbsp;  
   
