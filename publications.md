@@ -4,8 +4,8 @@ permalink: /publications/
 ---
 <img style="float: right;" src="/images/melocactus.png" height="170">
 
-<h3><strong><span style="color: #993366;"> Peer-reviewed publications </span></strong></h3>  
-  &nbsp; &nbsp;
+<h3><strong><span style="color: #993366;"> Peer-reviewed publications </span></strong></h3> (* Equal contributions)  
+  &nbsp; 
   
   
 **<a href="#2020">2020</a>**
@@ -18,12 +18,9 @@ permalink: /publications/
 **<a href="#2012">2012</a>**
 **<a href="#2011">2011</a>**<br>  
 
-
-(* Equal contributions)  
-  
-  
-  
-  
+&nbsp; &nbsp;  &nbsp; 
+ 
+   
 <a name="2020"></a>
 <h3><strong><span style="color: #993366;">2020 </span></strong></h3>
 
