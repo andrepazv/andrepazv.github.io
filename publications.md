@@ -64,7 +64,7 @@ Mendoza AM, Torres MF, <strong>Paz A</strong>, Trujillo-Arias N, Lopez-Alvarez D
 <a name="2015"></a>
 <h3><strong><span style="color: #993366;">2015</span></strong></h3>
 
-<strong><img class="wp-image-159 alignleft" src="/images/molecol_cover.png" alt="cover" width="96" height="126" />Paz A, </strong>Ibáñez R, Lips KR, Crawford AJ. (2015). Testing the role of ecology and life history in structuring genetic variation across a landscape: A trait-based phylogeographic approach. <em>Molecular Ecology. </em>24(14): 3723-3737. [[Get]](http://onlinelibrary.wiley.com/doi/10.1111/mec.13275/abstract){:target="_blank"}  
+<strong><img style="float: right;" src="/images/molecol_cover.png" alt="cover" width="96" height="126" />Paz A, </strong>Ibáñez R, Lips KR, Crawford AJ. (2015). Testing the role of ecology and life history in structuring genetic variation across a landscape: A trait-based phylogeographic approach. <em>Molecular Ecology. </em>24(14): 3723-3737. [[Get]](http://onlinelibrary.wiley.com/doi/10.1111/mec.13275/abstract){:target="_blank"}  
 
 Guarnizo CE , <strong>Paz A, </strong>Muñoz-Ortiz A, Flechas SV, Mendez-Narvaez J, Crawford AJ. (2015). DNA barcoding survey of anurans across the Eastern Cordillera of Colombia and the impact of the Andes on cryptic diversity. <em>PLoS ONE. </em>10(5): e0127312. [[Full text]](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0127312){:target="_blank"}
 
