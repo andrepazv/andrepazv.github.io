@@ -71,6 +71,9 @@ Mendoza AM, Torres MF, <strong>Paz A</strong>, Trujillo-Arias N, Lopez-Alvarez D
   
   
 <br>
+<table align="center">
+  <tr><th align="center">Header A</th><th align="center"><img src="/images/molecol_cover.png" alt="cover" width="100" height="135"/></th>
+</table>
 Guarnizo CE , <strong>Paz A, </strong>Muñoz-Ortiz A, Flechas SV, Mendez-Narvaez J, Crawford AJ. (2015). DNA barcoding survey of anurans across the Eastern Cordillera of Colombia and the impact of the Andes on cryptic diversity. <em>PLoS ONE. </em>10(5): e0127312. [[Full text]](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0127312){:target="_blank"}
 
 <a name="2014"></a>
