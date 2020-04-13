@@ -2,9 +2,9 @@
 layout: page
 permalink: /publications/
 ---
-<img style="float: right;" src="/images/melocactus.png" height="170">
+<img style="float: right;" src="/images/melocactus.png" height="190">
 
-<h3><strong><span style="color: #993366;"> Peer-reviewed publications </span></strong></h3> (* Equal contributions)  
+<h3><strong><span style="color: #993366;"> Peer-reviewed publications (* Equal contributions)</span></strong></h3> 
   &nbsp; 
   
   
