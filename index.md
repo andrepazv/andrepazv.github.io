@@ -20,7 +20,7 @@ layout: default
  same university I studied the environmental and ecological determinants of population genetic divergence in amphibians of
  Panama. I was awarded a Fulbright Colombia fellowship and I am currently a Biology PhD student in the Ecology Evolution and Behavior subprogram at CUNY. I joined the program and the [Carnaval Lab](http://www.carnavallab.org){:target="_blank"} in the Fall 2015.
   <br>
- Full [<i class="ai ai-cv-square ai-2x"></i></a>](/documents/CV_Paz_Feb2020.pdf){:target="_blank"}<i class="ai ai-cv-square ai-2x"></i></a>
+ Full [<i class="ai ai-cv-square ai-2x"></i>](/documents/CV_Paz_Feb2020.pdf){:target="_blank"}
    <br>
  You can follow me on: 
   <a href="https://publons.com/researcher/1202793/andrea-paz/" style="color: #000000; text-decoration: none;"><i class="ai ai-publons-square ai-2x"></i></a>
