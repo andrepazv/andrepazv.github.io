@@ -62,9 +62,10 @@ Curiel Yuste J, Heres AM, Ojeda G, <strong>Paz A, </strong>Pizano C, García-Ang
 Mendoza AM, Torres MF, <strong>Paz A</strong>, Trujillo-Arias N, Lopez-Alvarez D, Sierra S, Forero F. Gonzalez MA. (2016). Cryptic diversity revealed by DNA barcoding in Colombian illegally traded bird species. <em>Molecular Ecology Resources. 16(4):862-873 .</em> [[Get]](http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12515/abstract){:target="_blank"}
 
 <a name="2015"></a>
-<img style="float: right;" src="/images/molecol_cover.png" alt="cover" width="96" height="126"/>
-<h3><strong><span style="color: #993366;">2015</span></strong></h3>
+<h3><strong><span style="color: #993366;">2015</span></strong></h3>  
 
+
+<img style="float: right;" src="/images/molecol_cover.png" alt="cover" width="96" height="126"/>
 <strong>Paz A, </strong>Ibáñez R, Lips KR, Crawford AJ. (2015). Testing the role of ecology and life history in structuring genetic variation across a landscape: A trait-based phylogeographic approach. <em>Molecular Ecology. </em>24(14):3723-3737. [[Get]](http://onlinelibrary.wiley.com/doi/10.1111/mec.13275/abstract){:target="_blank"}  
   
   
