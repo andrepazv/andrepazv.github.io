@@ -7,16 +7,16 @@ title:
 <h3><span style="color: #993366;">Contributions to SciComm initiatives</span></h3>
 Many of these are in spanish as I try to contribute to initiatives in my home country but I am always interested in being part of such projects anywhere :-)! 
 
-Contributions to the beautiful [online catalog](http://www.acherpetologia.org/catalogo-de-anfibios-y-reptiles-de-colombia){:target="_blank"} of Amphibians and Reptiles of Colombia. A project by the Colombian herpetology society (In Spanish).
+<strong>Contributions to the beautiful [online catalog](http://www.acherpetologia.org/catalogo-de-anfibios-y-reptiles-de-colombia){:target="_blank"} of Amphibians and Reptiles of Colombia. A project by the Colombian herpetology society (In Spanish).</strong>
 
 <table width="80%">
   <tr><td style="width:35%;vertical-align: middle;"><img src="/images/diasporus.png"/></td><td style="width:35%;vertical-align: middle;"><img src="/images/lithonaetes.png"/></td></tr>
  <tr><td> <a href="http://www.acherpetologia.org/wp-content/uploads/2017/06/CARC_Volumen3_Numero2.pdf" target="_blank">Diasporus anthrax</a></td><td> <a href="http://www.acherpetologia.org/wp-content/uploads/2018/05/VOL_4_NUM_1.pdf" target="_blank">Leptodactylus lithonaetes</a> </td></tr>
 </table>
 &nbsp; &nbsp; 
-Contributions to the Annual Report on the state of Biodiversity in Colombia (check all reports [here](http://reporte.humboldt.org.co/biodiversidad/){:target="_blank"}) (In Spanish)
+<strong>Contributions to the Annual Report on the state of Biodiversity in Colombia (check all reports [here](http://reporte.humboldt.org.co/biodiversidad/){:target="_blank"}) (In Spanish)</strong>
 <table width="80%">
-<tr><td>We wrote one chapter on our work with the amphibian killing chytrid fungus distribution in Colombia</td></tr>
+<tr><td>We wrote <a href="http://reporte.humboldt.org.co/biodiversidad/2018/cap2/204/" target="_blank">one chapter</a> on our work with the amphibian killing chytrid fungus distribution in Colombia</td></tr>
 <tr><td style="height:35%;"><img src="/images/RET.png"/></td></tr>
 </table>
 &nbsp; &nbsp; 
