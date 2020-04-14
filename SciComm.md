@@ -4,18 +4,15 @@ permalink: /SciComm/
 title:  
 ---
   
-**<a href="#Online">Printed and Video initiatives</a>**
+**<a href="#Online">Printed & Video initiatives</a>**
 **<a href="#Press">Press</a>**
 **<a href="#Talks">Talks</a>**
-
 <br>  
-
-&nbsp; &nbsp;
- 
-
+Many of these are in spanish as I try to contribute to initiatives in my home country but I am always interested in being part of such projects anywhere :-)! 
+<br>
 <a name="Online"></a>
 <h3><span style="color: #993366;">Contributions to SciComm initiatives</span></h3>
-Many of these are in spanish as I try to contribute to initiatives in my home country but I am always interested in being part of such projects anywhere :-)! 
+
 
 <strong>Contributions to the beautiful [online catalog](http://www.acherpetologia.org/catalogo-de-anfibios-y-reptiles-de-colombia){:target="_blank"} of Amphibians and Reptiles of Colombia. A project by the Colombian herpetology society (In Spanish).</strong>
 
