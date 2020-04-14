@@ -3,12 +3,12 @@ layout: page
 permalink: /SciComm/
 title:  
 ---
-  
+
 **<a href="#Online">Printed & Video initiatives</a>**
 **<a href="#Press">Press</a>**
 **<a href="#Talks">Talks</a>**
-<br>  
-Many of these are in spanish as I try to contribute to initiatives in my home country but I am always interested in being part of such projects anywhere :-)! 
+<br>
+This page has a small compilation of some efforts I have made to communicate science to different audiences including other scientists, k12 students and the general public. Many of these are in spanish as I try to contribute to initiatives in my home country but I am always interested in being part of such projects anywhere :-)! 
 <br>
 <a name="Online"></a>
 <h3><span style="color: #993366;">Contributions to SciComm initiatives</span></h3>
