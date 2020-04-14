@@ -3,7 +3,17 @@ layout: page
 permalink: /SciComm/
 title:  
 ---
+  
+**<a href="#Online">Printed and Video initiatives</a>**
+**<a href="#Press">Press</a>**
+**<a href="#Talks">Talks</a>**
 
+<br>  
+
+&nbsp; &nbsp;
+ 
+
+<a name="Online"></a>
 <h3><span style="color: #993366;">Contributions to SciComm initiatives</span></h3>
 Many of these are in spanish as I try to contribute to initiatives in my home country but I am always interested in being part of such projects anywhere :-)! 
 
@@ -30,7 +40,7 @@ Many of these are in spanish as I try to contribute to initiatives in my home co
 <strong>An illustrated guide to the sampling of tissues for genetic analyses in amphibians, part of a full illustrated guide to sampling in several groups. (In Spanish)</strong>
 
 [<img src="/images/Guia_tejidos.png" width="300">](http://repository.humboldt.org.co/bitstream/handle/20.500.11761/33659/561.pdf?sequence=1&isAllowed=y){:target="_blank"}
-
+<a name="Press"></a>
 <h3><span style="color: #993366;">Some links to press coverage about me and my work</span></h3>
 &nbsp;
  <strong>A little about my experience as a woman in science: An interview with The Female Scientist</strong>  
@@ -42,6 +52,7 @@ Many of these are in spanish as I try to contribute to initiatives in my home co
 <br>
 <br>
 <br>
+<a name="Talks"></a>
 <h3><span style="color: #993366;">Outreach talks</span></h3>
 
 ##Add 2 talks as a Global Guide to New York City Public schools
