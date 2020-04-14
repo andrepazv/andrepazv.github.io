@@ -37,6 +37,10 @@ Many of these are in spanish as I try to contribute to initiatives in my home co
 <br>
 [<img align="left" src="/images/Screen Shot 2020-04-06 at 12.13.39 PM.png" width="200">](https://thefemalescientist.com/portrait/andrea-paz/826/meet-andrea-paz-a-biologist-focusing-on-species-distributions-and-diversity-in-neotropical-amphibians/){:target="_blank"}
 <br>
+<h3><span style="color: #993366;">Outreach talks</span></h3>
+
+##Add 2 talks as a Global Guide to New York City Public schools
+###Add 2 talks to 228 class at CCNY
 <br>  
   <br>
 <br>
