@@ -15,6 +15,7 @@ Many of these are in spanish as I try to contribute to initiatives in my home co
 </table>
 &nbsp; &nbsp; 
 <strong>A sci comm video about [our work]("/publications/#2020") on collective property in Afro-Colombian communities and deforestation with the amazing Ciencia Cafe Pa' Sumercé (In spanish):</strong> 
+ &nbsp; 
 [<img src="/images/CienciaCafe.jpg" width="400">](https://www.youtube.com/watch?v=EXDzZW6zUX8&t=2s){:target="_blank"}
 
 <strong>Contributions to the Annual Report on the state of Biodiversity in Colombia (check all reports [here](http://reporte.humboldt.org.co/biodiversidad/){:target="_blank"}) (In Spanish)</strong>
@@ -22,7 +23,7 @@ Many of these are in spanish as I try to contribute to initiatives in my home co
 <tr><td>We wrote <a href="http://reporte.humboldt.org.co/biodiversidad/2018/cap2/204/" target="_blank">one chapter</a> on our work with the amphibian killing chytrid fungus distribution in Colombia (Peer reviewed publication <a href="/publications/#2017">here</a>)</td></tr>
 <tr><td style="height:35%;"><img src="/images/RET.png"/></td></tr>
 </table>
-&nbsp; &nbsp; 
+&nbsp; 
 
 <strong>An illustrated guide to the sampling of tissues for genetic analyses in amphibians, part of a full illustrated guide to sampling in several groups. (In Spanish)</strong>
 
