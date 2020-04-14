@@ -15,7 +15,7 @@ This page has a small compilation of some efforts I have made to communicate sci
 <br>
 <h3><span style="color: #993366;">Contributions to SciComm initiatives</span></h3>
 <a name="Video"></a>
-<strong>A sci comm video about [our work]("/publications/#2020") on collective property in Afro-Colombian communities and deforestation with the amazing Ciencia Cafe Pa' Sumercé (In spanish):</strong>  
+<strong>A sci comm video about [our work](/publications/#2020) on collective property in Afro-Colombian communities and deforestation with the amazing Ciencia Cafe Pa' Sumercé (In spanish):</strong>  
 <br>
 [<img align="center" src="/images/CienciaCafe.jpg" width="400">](https://www.youtube.com/watch?v=EXDzZW6zUX8&t=2s){:target="_blank"}
 <br>
