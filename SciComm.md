@@ -31,9 +31,11 @@ Many of these are in spanish as I try to contribute to initiatives in my home co
 
 <h3><span style="color: #993366;">Some links to press coverage about me and my work</span></h3>
 &nbsp;
- <strong>A little about my experience as a woman in science: An interview with The Female Scientist</strong>
-&nbsp;
-[<img src="/images/Screen Shot 2020-04-06 at 12.13.39 PM.png" width="200">](https://thefemalescientist.com/portrait/andrea-paz/826/meet-andrea-paz-a-biologist-focusing-on-species-distributions-and-diversity-in-neotropical-amphibians/){:target="_blank"}
+ <strong>A little about my experience as a woman in science: An interview with The Female Scientist</strong>  
+ 
+  
+  
+[<img align="left" src="/images/Screen Shot 2020-04-06 at 12.13.39 PM.png" width="200">](https://thefemalescientist.com/portrait/andrea-paz/826/meet-andrea-paz-a-biologist-focusing-on-species-distributions-and-diversity-in-neotropical-amphibians/){:target="_blank"}
  
 
 
