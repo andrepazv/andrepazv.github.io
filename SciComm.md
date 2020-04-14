@@ -4,6 +4,15 @@ permalink: /SciComm/
 title:  
 ---
 
+<h3><span style="color: #993366;">Contributions to SciComm initiatives</span></h3>
+
+Contributions to the [online catalog](http://www.acherpetologia.org/catalogo-de-anfibios-y-reptiles-de-colombia){:target="_blank"} of amphibian and reptiles of Colombia. A project by the Colombian herpetology society (In Spanish).
+
+<table align="left">
+  <tr><td style="width:75%;height:85%;vertical-align: middle;"><img src="/images/diasporus.png" alt="cover"/></td><td style="width:75%;height:85%;vertical-align: middle;"><img src="/images/lithonaetes.png" alt="cover"/></td></tr>
+ <tr><td> <a href="http://www.acherpetologia.org/wp-content/uploads/2017/06/CARC_Volumen3_Numero2.pdf" target="_blank">Diasporus anthrax</a></td><td> <a href="http://www.acherpetologia.org/wp-content/uploads/2018/05/VOL_4_NUM_1.pdf" target="_blank">Leptodactylus lithonaetes</a> </td></tr>
+</table>
+
 <h3><span style="color: #993366;">Here are some links to press coverage about me and my work</span></h3>
 <div>
  <strong>A little about my experience as a woman in science:</strong>
@@ -17,12 +26,7 @@ title:
 <img src="/images/CienciaCafe.jpg" width="200">     
 [Interview with Ciencia Cafe Pa' Sumercé](https://www.youtube.com/watch?v=EXDzZW6zUX8&t=2s){:target="_blank"}
 
-Contributions to the [online catalog](http://www.acherpetologia.org/catalogo-de-anfibios-y-reptiles-de-colombia){:target="_blank"} of amphibian and reptiles of Colombia. A project by the Colombian herpetology society (In Spanish).
 
-<table align="left">
-  <tr><td style="width:75%;height:85%;vertical-align: middle;"><img src="/images/Jbio_cover.jpg" alt="cover"/></td><td style="width:75%;height:85%;vertical-align: middle;"><img src="/images/Jbio_cover.jpg" alt="cover"/></td></tr>
- <tr><td> <a href="http://www.acherpetologia.org/wp-content/uploads/2017/06/CARC_Volumen3_Numero2.pdf" target="_blank">Diasporus anthrax</a></td><td> <a href="http://www.acherpetologia.org/wp-content/uploads/2018/05/VOL_4_NUM_1.pdf" target="_blank">Leptodactylus lithonaetes</a> </td></tr>
-</table>
 
 
 
