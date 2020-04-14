@@ -15,9 +15,9 @@ Many of these are in spanish as I try to contribute to initiatives in my home co
 </table>
 &nbsp; &nbsp; 
 <strong>A sci comm video about [our work]("/publications/#2020") on collective property in Afro-Colombian communities and deforestation with the amazing Ciencia Cafe Pa' Sumercé (In spanish):</strong>  
-  <div>
+<br>
 [<img align="center" src="/images/CienciaCafe.jpg" width="400">](https://www.youtube.com/watch?v=EXDzZW6zUX8&t=2s){:target="_blank"}
-  </div>
+<br>
 
 <strong>Contributions to the Annual Report on the state of Biodiversity in Colombia (check all reports [here](http://reporte.humboldt.org.co/biodiversidad/){:target="_blank"}) (In Spanish)</strong>
 <table width="80%">
