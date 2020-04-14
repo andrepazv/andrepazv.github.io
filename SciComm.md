@@ -15,10 +15,11 @@ Contributions to the beautiful [online catalog](http://www.acherpetologia.org/ca
 </table>
 <br>
 Contributions to the Annual Report on the state of Biodiversity in Colombia (check all reports [here](http://reporte.humboldt.org.co/biodiversidad/){:target="_blank"}) (In Spanish)
-
+<table align="left">
 <tr><td>We wrote one chapter on our work with the amphibian killing chytrid fungus distribution in Colombia</td></tr>
-<tr><td style="width:35%;"><img src="/images/diasporus.png"/></td></tr>
-
+<tr><td style="width:35%;"><img src="/images/ret.png"/></td></tr>
+</table>
+<br>
 <h3><span style="color: #993366;">Here are some links to press coverage about me and my work</span></h3>
 <div>
  <strong>A little about my experience as a woman in science:</strong>
