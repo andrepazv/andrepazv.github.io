@@ -17,4 +17,10 @@ title:
 <img src="/images/CienciaCafe.jpg" width="200">     
 [Interview with Ciencia Cafe Pa' Sumercé](https://www.youtube.com/watch?v=EXDzZW6zUX8&t=2s){:target="_blank"}
 
+Flechas SV, Paz A, Crawford AJ. 2019. Motores de extinción: El caso de un hongo microscópico que ataca a los anfibios. In Moreno, L. A, Andrade, G. I. y Goméz, M. F. (Eds.) Reporte de Estado y Tendencias de la Biodiversidad 2018. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. 
+Barrientos L.S, Paz A, Lasso E. 2018. Leptodactlyus lithonaetes. Catálogo de Anfibios y Reptiles de Colombia. 4 (1):30-36. (Peer reviewed)
+Barrientos L.S, Paz A. 2017.Diasporus anthrax. Catálogo de Anfibios y Reptiles de Colombia.3(2):25-29.(Peer reviewed)
+Gonzalez MA,Paz A.2013.iBOL Colombia advances:Barcoding life in a megadiverse country. Barcode Bulletin.4(2):6
+Educational publications
+Crawford A. J., Paz A. 2017. Anfibios. Pp23-24. In: Gonzalez M.A., Arenas-Castro H (Eds). Recolección de tejidos biológicos para análisis genéticos. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Bogotá, D. C., Colombia. 33 pp.
 
