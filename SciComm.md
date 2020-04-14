@@ -4,7 +4,7 @@ permalink: /SciComm/
 title:  
 ---
 
-This page has a small compilation of some efforts I have made to communicate science to different audiences including other scientists, k12 students and the general public. Many of these are in spanish as I try to contribute to initiatives in my home country but I am always interested in being part of such projects anywhere :-)!  
+This page has a small compilation of some efforts I have made to communicate science to different audiences including other scientists, K-12 students and the general public. Many of these are in spanish as I try to contribute to initiatives in my home country but I am always interested in being part of such projects anywhere :-)!  
 
 <br>
 **<a href="#Video">Video</a>**
