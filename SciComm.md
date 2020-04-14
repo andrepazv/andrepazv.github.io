@@ -5,14 +5,16 @@ title:
 ---
 
 <h3><span style="color: #993366;">Contributions to SciComm initiatives</span></h3>
+Many of these are in spanish as I try to contribute to innitiatives in my home country but always interested on being part of such initiatives anywhere :-)! 
 
-Contributions to the [online catalog](http://www.acherpetologia.org/catalogo-de-anfibios-y-reptiles-de-colombia){:target="_blank"} of amphibian and reptiles of Colombia. A project by the Colombian herpetology society (In Spanish).
+Contributions to the beautiful [online catalog](http://www.acherpetologia.org/catalogo-de-anfibios-y-reptiles-de-colombia){:target="_blank"} of Amphibians and Reptiles of Colombia. A project by the Colombian herpetology society (In Spanish).
 
 <table align="left">
-  <tr><td style="width:75%;height:85%;vertical-align: middle;"><img src="/images/diasporus.png" alt="cover"/></td><td style="width:75%;height:85%;vertical-align: middle;"><img src="/images/lithonaetes.png" alt="cover"/></td></tr>
+  <tr><td style="width:50%;height:85%;vertical-align: middle;"><img src="/images/diasporus.png" alt="cover"/></td><td style="width:50%;height:85%;vertical-align: middle;"><img src="/images/lithonaetes.png" alt="cover"/></td></tr>
  <tr><td> <a href="http://www.acherpetologia.org/wp-content/uploads/2017/06/CARC_Volumen3_Numero2.pdf" target="_blank">Diasporus anthrax</a></td><td> <a href="http://www.acherpetologia.org/wp-content/uploads/2018/05/VOL_4_NUM_1.pdf" target="_blank">Leptodactylus lithonaetes</a> </td></tr>
 </table>
 
+Contributions to the Annual Report on biodiversity state and trends in Colombia (check all reports [here](http://reporte.humboldt.org.co/biodiversidad/){:target="_blank"}) (In Spanish)
 <h3><span style="color: #993366;">Here are some links to press coverage about me and my work</span></h3>
 <div>
  <strong>A little about my experience as a woman in science:</strong>
@@ -31,9 +33,6 @@ Contributions to the [online catalog](http://www.acherpetologia.org/catalogo-de-
 
 
 Flechas SV, Paz A, Crawford AJ. 2019. Motores de extinción: El caso de un hongo microscópico que ataca a los anfibios. In Moreno, L. A, Andrade, G. I. y Goméz, M. F. (Eds.) Reporte de Estado y Tendencias de la Biodiversidad 2018. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. 
-Barrientos L.S, Paz A, Lasso E. 2018. Leptodactlyus lithonaetes. Catálogo de Anfibios y Reptiles de Colombia. 4 (1):30-36. (Peer reviewed)
-Barrientos L.S, Paz A. 2017.Diasporus anthrax. Catálogo de Anfibios y Reptiles de Colombia.3(2):25-29.(Peer reviewed)
-Gonzalez MA,Paz A.2013.iBOL Colombia advances:Barcoding life in a megadiverse country. Barcode Bulletin.4(2):6
-Educational publications
+
 Crawford A. J., Paz A. 2017. Anfibios. Pp23-24. In: Gonzalez M.A., Arenas-Castro H (Eds). Recolección de tejidos biológicos para análisis genéticos. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Bogotá, D. C., Colombia. 33 pp.
 
