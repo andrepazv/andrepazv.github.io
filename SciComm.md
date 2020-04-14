@@ -55,6 +55,7 @@ This page has a small compilation of some efforts I have made to communicate sci
 <a name="Talks"></a>
 <h3><span style="color: #993366;">Outreach talks</span></h3>
 
+<strong>For a few years I was part of an amazing program in NYC called [Global Classroom](http://stage.otw.anant.us/Global-Classroom.aspx){:target="_blank"}.</strong> There, as a global guide I got to talk to students from NYC public school system at different levels about sustainability and conflict in relation to Colombia, my home country. Here are some pictures of those talks
 ##Add 2 talks as a Global Guide to New York City Public schools
 ###Add 2 talks to 228 class at CCNY
 <br>  
