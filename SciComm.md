@@ -17,9 +17,12 @@ title:
 <img src="/images/CienciaCafe.jpg" width="200">     
 [Interview with Ciencia Cafe Pa' Sumercé](https://www.youtube.com/watch?v=EXDzZW6zUX8&t=2s){:target="_blank"}
 
-Contributions to the [online catalog](http://www.acherpetologia.org/catalogo-de-anfibios-y-reptiles-de-colombia){:target="_blank"} of amphibian and reptiles of Colombia. A project by the Colombian herpetolgy society (In spanish).
-http://www.acherpetologia.org/wp-content/uploads/2018/05/VOL_4_NUM_1.pdf  http://www.acherpetologia.org/wp-content/uploads/2017/06/CARC_Volumen3_Numero2.pdf
-Leptodactylus lithonaetes Diasporus anthrax
+Contributions to the [online catalog](http://www.acherpetologia.org/catalogo-de-anfibios-y-reptiles-de-colombia){:target="_blank"} of amphibian and reptiles of Colombia. A project by the Colombian herpetolgy society (In Spanish).
+<table align="left">
+  <tr><td style="width:75%;height:100%;vertical-align: middle;"><img src="/images/Jbio_cover.jpg" alt="cover"/></td><td style="height:80%;vertical-align: middle;"><img src="/images/Jbio_cover.jpg" alt="cover"/></td></tr><tr><td <a href="http://www.acherpetologia.org/wp-content/uploads/2017/06/CARC_Volumen3_Numero2.pdf" target="_blank">Diasporus anthrax</a></td><td <a href="http://www.acherpetologia.org/wp-content/uploads/2018/05/VOL_4_NUM_1.pdf" target="_blank">Leptodactylus lithonaetes</a> </td></tr>
+</table>
+
+
 
 Flechas SV, Paz A, Crawford AJ. 2019. Motores de extinción: El caso de un hongo microscópico que ataca a los anfibios. In Moreno, L. A, Andrade, G. I. y Goméz, M. F. (Eds.) Reporte de Estado y Tendencias de la Biodiversidad 2018. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. 
 Barrientos L.S, Paz A, Lasso E. 2018. Leptodactlyus lithonaetes. Catálogo de Anfibios y Reptiles de Colombia. 4 (1):30-36. (Peer reviewed)
