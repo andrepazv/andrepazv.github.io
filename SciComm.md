@@ -10,7 +10,7 @@ Many of these are in spanish as I try to contribute to innitiatives in my home c
 Contributions to the beautiful [online catalog](http://www.acherpetologia.org/catalogo-de-anfibios-y-reptiles-de-colombia){:target="_blank"} of Amphibians and Reptiles of Colombia. A project by the Colombian herpetology society (In Spanish).
 
 <table align="left">
-  <tr><td style="width:50%;height:85%;vertical-align: middle;"><img src="/images/diasporus.png" alt="cover"/></td><td style="width:50%;height:85%;vertical-align: middle;"><img src="/images/lithonaetes.png" alt="cover"/></td></tr>
+  <tr><td style="width:50%;vertical-align: middle;"><img src="/images/diasporus.png" alt="cover"/></td><td style="width:50%;vertical-align: middle;"><img src="/images/lithonaetes.png" alt="cover"/></td></tr>
  <tr><td> <a href="http://www.acherpetologia.org/wp-content/uploads/2017/06/CARC_Volumen3_Numero2.pdf" target="_blank">Diasporus anthrax</a></td><td> <a href="http://www.acherpetologia.org/wp-content/uploads/2018/05/VOL_4_NUM_1.pdf" target="_blank">Leptodactylus lithonaetes</a> </td></tr>
 </table>
 
