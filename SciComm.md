@@ -7,15 +7,19 @@ title:
 This page has a small compilation of some efforts I have made to communicate science to different audiences including other scientists, k12 students and the general public. Many of these are in spanish as I try to contribute to initiatives in my home country but I am always interested in being part of such projects anywhere :-)!  
 
 <br>
-**<a href="#Online">Printed/Video</a>**
+**<a href="#Video">Video</a>**
+**<a href="#Printed">Printed</a>**
 **<a href="#Press">Press</a>**
 **<a href="#Talks">Talks</a>**
 &nbsp;
 <br>
-<a name="Online"></a>
 <h3><span style="color: #993366;">Contributions to SciComm initiatives</span></h3>
-
-
+<a name="Video"></a>
+<strong>A sci comm video about [our work]("/publications/#2020") on collective property in Afro-Colombian communities and deforestation with the amazing Ciencia Cafe Pa' Sumercé (In spanish):</strong>  
+<br>
+[<img align="center" src="/images/CienciaCafe.jpg" width="400">](https://www.youtube.com/watch?v=EXDzZW6zUX8&t=2s){:target="_blank"}
+<br>
+<a name="Printed"></a>
 <strong>Contributions to the beautiful [online catalog](http://www.acherpetologia.org/catalogo-de-anfibios-y-reptiles-de-colombia){:target="_blank"} of Amphibians and Reptiles of Colombia. A project by the Colombian herpetology society (In Spanish).</strong>
 
 <table width="80%">
@@ -24,10 +28,7 @@ This page has a small compilation of some efforts I have made to communicate sci
 </table>
 &nbsp;
 <br>
-<strong>A sci comm video about [our work]("/publications/#2020") on collective property in Afro-Colombian communities and deforestation with the amazing Ciencia Cafe Pa' Sumercé (In spanish):</strong>  
-<br>
-[<img align="center" src="/images/CienciaCafe.jpg" width="400">](https://www.youtube.com/watch?v=EXDzZW6zUX8&t=2s){:target="_blank"}
-<br>
+
 
 <strong>Contributions to the Annual Report on the state of Biodiversity in Colombia (check all reports [here](http://reporte.humboldt.org.co/biodiversidad/){:target="_blank"}) (In Spanish)</strong>
 <table width="80%">
