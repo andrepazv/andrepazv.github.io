@@ -39,6 +39,9 @@ Many of these are in spanish as I try to contribute to initiatives in my home co
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 <h3><span style="color: #993366;">Outreach talks</span></h3>
 
 ##Add 2 talks as a Global Guide to New York City Public schools
