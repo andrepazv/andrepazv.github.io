@@ -27,13 +27,11 @@ Many of these are in spanish as I try to contribute to initiatives in my home co
 
 <strong>An illustrated guide to the sampling of tissues for genetic analyses in amphibians, part of a full illustrated guide to sampling in several groups. (In Spanish)</strong>
 
-[<img src="Guia_tejidos.png" width="300">](http://repository.humboldt.org.co/bitstream/handle/20.500.11761/33659/561.pdf?sequence=1&isAllowed=y){:target="_blank"}
+[<img src="/images/Guia_tejidos.png" width="300">](http://repository.humboldt.org.co/bitstream/handle/20.500.11761/33659/561.pdf?sequence=1&isAllowed=y){:target="_blank"}
 
-<h3><span style="color: #993366;">Here are some links to press coverage about me and my work</span></h3>
-<div>
- <strong>A little about my experience as a woman in science:</strong>
- </div>
- <img src="/images/Screen Shot 2020-04-06 at 12.13.39 PM.png" width="200">  
-[Interview with The Female Scientist](https://thefemalescientist.com/portrait/andrea-paz/826/meet-andrea-paz-a-biologist-focusing-on-species-distributions-and-diversity-in-neotropical-amphibians/){:target="_blank"}
+<h3><span style="color: #993366;">Some links to press coverage about me and my work</span></h3>
+&nbsp;
+ <strong>A little about my experience as a woman in science: An interview with The Female Scientist</strong>
+[ <img src="/images/Screen Shot 2020-04-06 at 12.13.39 PM.png" width="200"> ](https://thefemalescientist.com/portrait/andrea-paz/826/meet-andrea-paz-a-biologist-focusing-on-species-distributions-and-diversity-in-neotropical-amphibians/){:target="_blank"}
 
 
