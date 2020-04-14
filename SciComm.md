@@ -15,10 +15,9 @@ Many of these are in spanish as I try to contribute to initiatives in my home co
 </table>
 &nbsp; &nbsp; 
 <strong>A sci comm video about [our work]("/publications/#2020") on collective property in Afro-Colombian communities and deforestation with the amazing Ciencia Cafe Pa' Sumercé (In spanish):</strong>  
-  
-  
-
-[<img align="right" src="/images/CienciaCafe.jpg" width="400">](https://www.youtube.com/watch?v=EXDzZW6zUX8&t=2s){:target="_blank"}
+  <div>
+[<img align="center" src="/images/CienciaCafe.jpg" width="400">](https://www.youtube.com/watch?v=EXDzZW6zUX8&t=2s){:target="_blank"}
+  </div>
 
 <strong>Contributions to the Annual Report on the state of Biodiversity in Colombia (check all reports [here](http://reporte.humboldt.org.co/biodiversidad/){:target="_blank"}) (In Spanish)</strong>
 <table width="80%">
@@ -35,9 +34,7 @@ Many of these are in spanish as I try to contribute to initiatives in my home co
 &nbsp;
  <strong>A little about my experience as a woman in science: An interview with The Female Scientist</strong>  
  
-  
-  
+ <div> 
 [<img align="left" src="/images/Screen Shot 2020-04-06 at 12.13.39 PM.png" width="200">](https://thefemalescientist.com/portrait/andrea-paz/826/meet-andrea-paz-a-biologist-focusing-on-species-distributions-and-diversity-in-neotropical-amphibians/){:target="_blank"}
- 
-
+</div>
 
