@@ -62,7 +62,7 @@ This page has a small compilation of some efforts I have made to communicate sci
   <br>
 I have participated as an invited speaker in the CCNY Ecology and Evolution (Bio 228) class for undergraduates. Sharing Ecology and Evolution research with the students showcasing what we do in the department and some things they could do research in. 
 <table width="80%">
-<tr><td style="width:35%;"><img src="/images/228_1.png"/></td><td style="width:40%;"><img src="/images/228_2.png"/></td></tr>
+<tr><td style="width:45%;"><img src="/images/228_1.png"/></td><td style="width:40%;"><img src="/images/228_2.png"/></td></tr>
 </table>  
 <br>  
   <br>
