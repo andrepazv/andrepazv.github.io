@@ -57,10 +57,13 @@ This page has a small compilation of some efforts I have made to communicate sci
 
 <strong>For a few years I was part of an amazing program in NYC called [Global Classroom](http://stage.otw.anant.us/Global-Classroom.aspx){:target="_blank"}.</strong> There, as a global guide I got to talk to students of different grades from the NYC public school system about sustainability and conflict in relation to Colombia, my home country. Here are some pictures of those talks
 <table width="80%">
-<tr><td style="width:35%;"><img src="/images/GlobalClassroom.JPG"/></td><td style="width:35%;"><img src="/images/GlobalClassroom.png"/></td></tr>
+<tr><td style="width:35%;"><img src="/images/GlobalClassroom.JPG"/></td><td style="width:40%;"><img src="/images/GlobalClassroom.png"/></td></tr>
 </table>  
   <br>
-###Add 2 talks to 228 class at CCNY
+I have participated as an invited speaker in the CCNY Ecology and Evolution (Bio 228) class for undergraduates. Sharing Ecology and Evolution research with the students showcasing what we do in the department and some things they could do research in. 
+<table width="80%">
+<tr><td style="width:35%;"><img src="/images/228_1.png"/></td><td style="width:40%;"><img src="/images/228_2.png"/></td></tr>
+</table>  
 <br>  
   <br>
 <br>
