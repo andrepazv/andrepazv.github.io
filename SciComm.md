@@ -41,6 +41,8 @@ This page has a small compilation of some efforts I have made to communicate sci
 
 [<img src="/images/Guia_tejidos.png" width="300">](http://repository.humboldt.org.co/bitstream/handle/20.500.11761/33659/561.pdf?sequence=1&isAllowed=y){:target="_blank"}
 <strong>An outreach report on the barcode of life project in Colombia back in 2013!!</strong>
+&nbsp;
+<br>
 [<img src="/images/bol.png" width="300">](http://biodiversitygenomics.net/site/wp-content/uploads/2015/12/iBOL-Barcode-Bulletin-Dec-2013.pdf){:target="_blank"}
 <a name="Press"></a>
 <h3><span style="color: #993366;">Some links to press coverage about me and my work</span></h3>
