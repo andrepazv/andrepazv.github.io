@@ -39,7 +39,9 @@ This page has a small compilation of some efforts I have made to communicate sci
 
 <strong>An illustrated guide to the sampling of tissues for genetic analyses in amphibians, part of a full illustrated guide to sampling in several groups. (In Spanish)</strong>
 
-[<img src="/images/Guia_tejidos.png" width="300">](http://repository.humboldt.org.co/bitstream/handle/20.500.11761/33659/561.pdf?sequence=1&isAllowed=y){:target="_blank"}
+[<img src="/images/Guia_tejidos.png" width="300">](http://repository.humboldt.org.co/bitstream/handle/20.500.11761/33659/561.pdf?sequence=1&isAllowed=y){:target="_blank"}  
+
+<br>
 <strong>An outreach report on the barcode of life project in Colombia back in 2013!!</strong>
 &nbsp;
 <br>
