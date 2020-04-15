@@ -57,7 +57,7 @@ This page has a small compilation of some efforts I have made to communicate sci
 
 <strong>For a few years I was part of an amazing program in NYC called [Global Classroom](http://stage.otw.anant.us/Global-Classroom.aspx){:target="_blank"}.</strong> There, as a global guide I got to talk to students of different grades from the NYC public school system about sustainability and conflict in relation to Colombia, my home country. Here are some pictures of those talks
 <table width="80%">
-<tr><td style="width:35%;"><img src="/images/GlobalClassroom.png"/></td><td style="width:"35%;"><img src="/images/GlobalClassroom.png"/></td></tr>
+<tr><td style="width:35%;"><img src="/images/GlobalClassroom.JPG"/></td><td style="width:"35%;"><img src="/images/GlobalClassroom.png"/></td></tr>
 </table>  
   <br>
 ###Add 2 talks to 228 class at CCNY
