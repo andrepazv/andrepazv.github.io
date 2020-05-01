@@ -19,7 +19,6 @@ DNA Barcoding in the neotropics and potential applications
 
 Although I am not currently working on this I did for a few years and would love to go back to it. This project included using DNA barcode data for phylogeography applications [to pub] and for identification of fauna in illegal traffic seizures [link]. Within this project I also published a review of DNA barcoding uses in Spanish [GET] and a comparison of species id accuracy using different methods. 
 
-I love maps and models so I have been involved in different collaborative projects led by the amazing [Camila Gonzalez](https://cimpat.uniandes.edu.co){:target="_blank"} at Universidad de los Andes in Colombia using spatially explicit sampling designs, ecological niche modeling and others to understand the distribution of tropical diseases, theirs vectors and causing agents.
-<img style="float: right;" src="images/web_tropicaldis.jpg" height="190">
+I love maps and models so I have been involved in different collaborative projects led by the amazing [Camila Gonzalez](https://cimpat.uniandes.edu.co){:target="_blank"} at Universidad de los Andes in Colombia using spatially explicit sampling designs, ecological niche modeling and others to understand the distribution and climate drivers of tropical diseases, their vectors and causing agents. <img style="float: right;" src="/images/web_tropicaldis.jpg" height="190">
 
 
