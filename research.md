@@ -22,6 +22,7 @@ Although I am not currently working on this I did for a few years and would love
   
 &nbsp;
 &nbsp;
+<br>
 <strong>Distribution and climate correlates of tropical diseases</strong>  
 
 <img style="float: right;" src="/images/web_tropicaldis.jpg" height="200"> I love maps and models so I have been involved in different collaborative projects led by the amazing [Camila Gonzalez](https://cimpat.uniandes.edu.co){:target="_blank"} at Universidad de los Andes in Colombia using spatially explicit sampling designs, ecological niche modeling and others to understand the distribution and climate drivers of tropical diseases, their vectors and causing agents. 
