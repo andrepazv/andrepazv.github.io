@@ -45,7 +45,7 @@ Prates I, <strong>Paz A</strong>, Brown JL, Carnaval A. (2019). Links between 
 
 Rueda X, <strong>Paz A</strong>, Gibbs-Plessl T, Leon R, Moyano B, &amp; Lambin EF. (2018). Smallholders at a Crossroad: Intensify or Fall behind? Exploring Alternative Livelihood Strategies in a Globalized World. <i>Buisness Strategy and the Environment</i>, 27(2): 215–229. [[Get]](http://onlinelibrary.wiley.com/doi/10.1002/bse.2011/full){:target="_blank"}
 
-Gonzalez C, Leon C, <strong>Paz A</strong>, Lopez M, Molina G, Toro D, Ortiz M, Cordovez JM, Atencia MC, Aguilera G, Tovar C. (2018). Diversity patterns, <em>Leishmania</em> infection, and feeding preferences of Phlebotominae sand flies in rural human settlements in northern Colombia. <em>PLoS ONE. </em>13(1): e0190686. [[Full text]](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0190686){:target="_blank"}
+Gonzalez C, Leon C, <strong>Paz A</strong>, Lopez M, Molina G, Toro D, Ortiz M, Cordovez JM, Atencia MC, Aguilera G, Tovar C. (2018). Diversity patterns, <em>Leishmania</em> DNA detection, and bloodmeal identification of Phlebotominae sand flies in villages in northern Colombia. <em>PLoS ONE. </em>13(1): e0190686. [[Full text]](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0190686){:target="_blank"}
 
 <a name="2017"></a>
 <h3><strong><span style="color: #993366;">2017 </span></strong></h3>
