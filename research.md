@@ -20,7 +20,7 @@ Phylogeography of Neotropical Amphibians: traits, climate and geography as drive
 <img style="float: left;" src="/images/dnabarcode.jpg" height="200">
 Although I am not currently working on this I did for a few years and would love to go back to it. This project included using DNA barcode data for phylogeography applications [to pub] and for identification of fauna in illegal traffic seizures [link]. Within this project I also published a review of DNA barcoding uses in Spanish [GET] and a comparison of species id accuracy using different methods.  
   
-  
+&nbsp;
 <strong>Distribution and climate correlates of tropical diseases</strong>  
 
 <img style="float: right;" src="/images/web_tropicaldis.jpg" height="200"> I love maps and models so I have been involved in different collaborative projects led by the amazing [Camila Gonzalez](https://cimpat.uniandes.edu.co){:target="_blank"} at Universidad de los Andes in Colombia using spatially explicit sampling designs, ecological niche modeling and others to understand the distribution and climate drivers of tropical diseases, their vectors and causing agents. 
