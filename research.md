@@ -21,7 +21,7 @@ For my dissertation I have been evaluating how environmental variables such as c
 <br>
 <strong>Phylogeography of Neotropical Amphibians: traits, climate and geography as drivers of genetic diversity</strong>
 <img src="/images/traits_phylo.png" height="200">
-For years I have been interested in the determiannts of genetic structure and genetic diveristy in neotropical amphibians. I have found that a combination of factors are important and this is related to species traits (e.g. dispersal ability). It is the interaction between each species traits and their environment that determines the strength or permeability of a given barrier. Here are links to a few publications related to this project.[Get1][Get2][Get3] 
+For years I have been interested in the determinants of genetic structure and genetic diversity in neotropical amphibians. I have found that a combination of factors are important and this is related to species traits (e.g. dispersal ability). It is the interaction between each species traits and their environment that determines the strength or permeability of a given barrier. Here are links to a few publications related to this project.[Get1][Get2][Get3] 
   
 &nbsp;
 &nbsp;
