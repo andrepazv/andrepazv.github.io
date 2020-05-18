@@ -4,7 +4,7 @@ permalink: /teaching/
 ---
 <strong><span style="color: #993366">Teaching & Mentoring</span></strong>  
   
-  I believe exchanging knowledge is key to succesful science and such and exchange can happen in different ways. In addition to teaching university courses I try to get involved in the mentoring of students at different levels including high school and undergraduate students as well as graduate students visiting our lab. 
+  I believe exchanging knowledge is key to succesful science and such an exchange can happen in different ways. In addition to teaching university courses I try to get involved in the mentoring of students at different levels including high school and undergraduate students as well as graduate students visiting our lab. 
 
 <strong><span style="color: #993366">Lecturer</span></strong>
 <ul>
