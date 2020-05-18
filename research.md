@@ -44,6 +44,6 @@ We published three papers out of this collaboration, two on sandfly distribution
 &nbsp;
 &nbsp;
 <br>
-<strong>Joining forces for interdiciplanry research</strong>
+<strong>Joining forces for interdisciplinary research</strong>
 I believe as biologists we have a lot to offer in interdisciplinary research that can have broader impacts in society and I am eager to participate of such interdisciplinary efforts. With this in mind I have in a few occasions joined forces with social scientists to better understand complex systems. This led to a few publications were we investigate the effect of communal property of land by afrocolombian communities in deforestation patterns and the impacts of plnating local versus clonal varieties of cacao in Ecuador for both communities and biodiversity.  
 
