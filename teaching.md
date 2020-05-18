@@ -25,6 +25,9 @@ permalink: /teaching/
  	<li>Mathematics 3. Universidad de los Andes. 2009</li>
 </ul>
 
-<strong><span style="color: #993366">Workshop co-instructor</span></strong>
-<strong><span style="color: #993366">Volunteer mentor</span></strong>
-<strong><span style="color: #993366">Thesis co-advisor</span></strong>
+<strong><span style="color: #993366">Workshop co-instructor</span></strong>  
+
+<strong><span style="color: #993366">Volunteer mentor</span></strong>  
+
+<strong><span style="color: #993366">Thesis co-advisor</span></strong>  
+
