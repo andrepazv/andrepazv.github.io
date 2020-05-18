@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /teaching/
-Title: Teaching & Mentoring
 ---
 <strong><span style="color: #993366">Teaching & Mentoring</span></strong>  
   
   I believe exchanging knowledge is key to succesful science and such an exchange can happen in different ways. In addition to teaching university courses I try to get involved in the mentoring of students at different levels including high school and undergraduate students as well as graduate students visiting our lab. 
 
-<strong><span style="color: #993366">Formal courses</span></strong>
+<strong><span style="color: #993366">Formal courses</span></strong>  
+
 <strong>Lecturer</strong>
 <ul>
  	<li>Biogeography. Pontificia Universidad Javeriana. 2014-2015</li>
