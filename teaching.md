@@ -40,11 +40,12 @@ permalink: /teaching/
 
 <strong><span style="color: #993366">Thesis co-advisor</span></strong>  
 
-<li> Natalia Suarez, MSc in Biology program at Universidad Militar Nueva Granada (Co-advisor with Dr. Nelsy R. Pinto). 2020- </li>
+<li> Nathalia Suarez, MSc in Biology program at Universidad Militar Nueva Granada (Co-advisor with Dr. Nelsy R. Pinto). 2020- </li>
 
 <li>Loren Araque, Undergraduate in Biology at Universidad Militar Nueva Granada (Co-advisor with Dr. Nelsy R. Pinto). 2019-Present</li>
 
 <li> Miguel Banoy, BSc in Biology at Universidad Militar Nueva Granada (Co-advisor with Dr. Nelsy R. Pinto). Thesis: Effect of climate change on the distribution of high elevation amphibians in Colombia. 2019-2020 </li>
+
 
 
 
