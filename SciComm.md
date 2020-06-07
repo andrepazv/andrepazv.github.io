@@ -67,6 +67,13 @@ This page has a small compilation of some efforts I have made to communicate sci
 <a name="Talks"></a>
 <h3><span style="color: #993366;">Outreach talks</span></h3>
 
+<strong>I have recently joined [Skype a Scientist](https://www.skypeascientist.com){:target="_blank"}</strong>. This is a wonderful program that allows schools and families to connect with scientists working on some topic of interest for a conversation.  
+Here are a couple of drawings I got after a super cool conversation with 1st/3rd graders about frogs! Looking forward to more of these sessions.
+<table width="80%">
+<tr><td style="width:43%;"><img src="/images/skype_scientist1.png"/></td><td style="width:40%;"><img src="/images/skype_scientist2.png"/></td></tr>
+</table>  
+<br>  
+
 <strong>For a few years I was part of an amazing program in NYC called [Global Classroom](http://stage.otw.anant.us/Global-Classroom.aspx){:target="_blank"}.</strong> There, as a global guide I got to talk to students of different grades from the NYC public school system about sustainability and conflict in relation to Colombia, my home country. Here are some pictures of those talks
 <table width="80%">
 <tr><td style="width:35%;"><img src="/images/GlobalClassroom.JPG"/></td><td style="width:41%;"><img src="/images/GlobalClassroom.png"/></td></tr>
