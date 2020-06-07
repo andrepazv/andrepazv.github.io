@@ -19,6 +19,12 @@ This page has a small compilation of some efforts I have made to communicate sci
 <br>
 [<img align="center" src="/images/CienciaCafe.jpg" width="400">](https://www.youtube.com/watch?v=EXDzZW6zUX8&t=2s){:target="_blank"}
 <br>
+
+<strong>A sci comm video on the complexities of doing science and how information changes as more questions and answers appear, in the context of COVID-19 a fiction video with the amazing Ciencia Café Pa' Sumercé (In spanish):</strong>  
+<br>
+[<img align="center" src="/images/CienciaCafe2.png" width="300">](https://www.youtube.com/watch?v=KNzYY7TCfko){:target="_blank"}
+<br>
+
 <a name="Printed"></a>
 <strong>Contributions to the beautiful [online catalog](http://www.acherpetologia.org/catalogo-de-anfibios-y-reptiles-de-colombia){:target="_blank"} of Amphibians and Reptiles of Colombia. A project by the Colombian herpetology society (In Spanish).</strong>
 
