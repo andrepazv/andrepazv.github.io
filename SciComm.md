@@ -68,7 +68,7 @@ This page has a small compilation of some efforts I have made to communicate sci
 <h3><span style="color: #993366;">Outreach talks</span></h3>
 
 <strong>I have recently joined [Skype a Scientist](https://www.skypeascientist.com){:target="_blank"}</strong>. This is a wonderful program that allows schools and families to connect with scientists working on some topic of interest for a conversation.  
-Here are a couple of drawings I got after a super cool conversation with 1st/3rd graders about frogs! Looking forward to more of these sessions.
+Here are a couple of drawings I got after a super cool conversation with 1st/3rd graders about frogs! Looking forward to more of these sessions in the near future!
 <table width="80%">
 <tr><td style="width:43%;"><img src="/images/skype_scientist1.png"/></td><td style="width:40%;"><img src="/images/skype_scientist2.png"/></td></tr>
 </table>  
