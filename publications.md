@@ -23,7 +23,9 @@ permalink: /publications/
  
 
 <a name="2020"></a>
-<h3><strong><span style="color: #993366;">2020 </span></strong></h3>
+<h3><strong><span style="color: #993366;">2020 </span></strong></h3>  
+
+<strong>Paz A</strong>, Reginato M, Michelangeli FA, Goldenberg R, Caddah MK, Aguirre-Santoro J, Kaehler M, Lohmann LG, Carnaval AC. 2020. Predicting patterns of plant diversity and endemism in the tropics using remote sensing data: A study case from the Brazilian Atlantic rainforest. In:<i> Remote Sensing of Plant Biodiversity </i>. (eds Cavender-Bares J, Gamon J, P T), pp. 255–266 Springer, Cham. [[Get]](https://link.springer.com/chapter/10.1007/978-3-030-33157-3_11){:target="_blank"}
 
 Betancourth-Cundar M, Palacios-Rodriguez P, Mejia-Vargas D, <strong>Paz A</strong>, Amezquita A.(2020). Genetic differentiation and overexploitation history of the critically endangered Lehmann’s Poison Frog : Oophaga lehmanni. <i>Conservation Genetics</i>. [[Get]](https://link.springer.com/article/10.1007%2Fs10592-020-01262-w){:target="_blank"}
 
