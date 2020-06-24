@@ -14,7 +14,7 @@ My main research right now is focused on patterns of neotropical diversity and t
 <strong>Mapping diversity patterns in the neotropics and understanding their environmental correlates</strong>  
 
 <img style="float: left;" src="/images/AF_diversity.png" height="150">
-For my dissertation I have been evaluating how environmental variables such as climate (temperature and precipitation), climatic stability, topography etc. are related to patterns of diversity (both taxonomic and phylogenetic). This project has resulted in 2 publications and a couple more are in the pipeline. First one on the potencial of remote sensing data for indirect estimates of plant diversity in the Brazilian Atlantic forest [[Here]](https://link.springer.com/chapter/10.1007/978-3-030-33157-3_11){:target="_blank"}
+For my dissertation I have been evaluating how environmental variables such as climate (temperature and precipitation), climatic stability, topography etc. are related to patterns of diversity (both taxonomic and phylogenetic). This project has resulted in 2 publications and a couple more are in the pipeline. You can find the first one on the potencial of remote sensing data for indirect estimates of plant diversity in the Brazilian Atlantic forest [[Here]](https://link.springer.com/chapter/10.1007/978-3-030-33157-3_11){:target="_blank"}.
 
   
 &nbsp;
