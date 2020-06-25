@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-  <head class="backgroundHead">
+  <head>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
     {% include meta.html %}
@@ -17,6 +17,7 @@
   </head>
 
   <body>
+    <div  class=backgroundHead>
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
@@ -37,6 +38,7 @@
           </nav>
         </header>
       </div>
+       </div>
     </div>
 
     <div id="main" role="main" class="container">
