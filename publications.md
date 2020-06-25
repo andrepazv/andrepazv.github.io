@@ -25,7 +25,7 @@ permalink: /publications/
 <a name="2020"></a>
 <h3><strong><span style="color: #993366;">2020 </span></strong></h3>  
 <table align="left">
-  <tr><td style="width:70%;height:100%;vertical-align: middle;"><strong>Paz A</strong>, Reginato M, Michelangeli FA, Goldenberg R, Caddah MK, Aguirre-Santoro J, Kaehler M, Lohmann LG, Carnaval AC. 2020. Predicting patterns of plant diversity and endemism in the tropics using remote sensing data: A study case from the Brazilian Atlantic rainforest. In:<i> Remote Sensing of Plant Biodiversity </i>. (eds Cavender-Bares J, Gamon J, P T), pp. 255–266 Springer, Cham.<a href="https://link.springer.com/chapter/10.1007/978-3-030-33157-3_11" target="_blank">[Get]</a></td><td style="height:90%;vertical-align: middle;"><img src="/images/book_RSplants.png" height="290" alt="cover"/></td></tr>
+  <tr><td style="width:70%;height:100%;vertical-align: middle;"><strong>Paz A</strong>, Reginato M, Michelangeli FA, Goldenberg R, Caddah MK, Aguirre-Santoro J, Kaehler M, Lohmann LG, Carnaval AC. 2020. Predicting patterns of plant diversity and endemism in the tropics using remote sensing data: A study case from the Brazilian Atlantic rainforest. In:<i> Remote Sensing of Plant Biodiversity </i>. (eds Cavender-Bares J, Gamon J, P T), pp. 255–266 Springer, Cham.<a href="https://link.springer.com/chapter/10.1007/978-3-030-33157-3_11" target="_blank">[Get]</a></td><td style="height:70%;vertical-align: middle;"><img src="/images/book_RSplants.png" alt="cover"/></td></tr>
 </table>
 <br>  
 &nbsp; &nbsp;  
