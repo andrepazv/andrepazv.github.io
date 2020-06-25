@@ -222,7 +222,7 @@ img {
   margin: -5px 0 0 0;
   color: $darkGray;
   font-size: 16px;
-  background-color: #DBDBDA60;
+  background-color: #DBDBDA70;
 
   @include mobile {
     margin: 3px 0;
@@ -235,7 +235,7 @@ nav {
   font-family: $helveticaNeue;
   color: $darkGray;
   font-size: 16px;
-  background-color: #DBDBDA60;
+  background-color: #DBDBDA70;
 
   @include mobile {
     float: none;
@@ -253,7 +253,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: #9400D3;
+      color: $darkGray;
     }
   }
 }
