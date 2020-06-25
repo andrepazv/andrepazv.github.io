@@ -24,7 +24,7 @@ For my dissertation I have been evaluating how environmental variables such as c
 <img src="/images/traits_phylo.png" height="200">  
 
 For years I have been interested in the determinants of genetic structure and genetic diversity in neotropical amphibians. I have found that a combination of factors are important and this is related to species traits (e.g. dispersal ability). It is the interaction between each species traits and their environment that determines the strength or permeability of a given barrier. Here are links to a few publications related to this project.[[Get1]](https://escholarship.org/uc/item/32g8q7x3){:target="_blank"}[[Get2]](https://rdcu.be/9Y1T){:target="_blank"}[[Get3]](http://onlinelibrary.wiley.com/doi/10.1111/mec.13275/abstract){:target="_blank"} [[Get4]](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0127312){:target="_blank"}
-This work has been done in collaboration with past and present members of two amazing labs! The [CrawfordLab](http://dna.ac){:target="_blank"} at Universidad de los Andes in Colombia and The [CarnavalLab](https://www.carnavallab.org){:target="_blank"} at CUNY. 
+This work has been done in collaboration with past and present members of two amazing labs: The [CrawfordLab](http://dna.ac){:target="_blank"} at Universidad de los Andes in Colombia and The [CarnavalLab](https://www.carnavallab.org){:target="_blank"} at CUNY. 
   
 &nbsp;
 &nbsp;
