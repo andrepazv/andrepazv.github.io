@@ -163,7 +163,11 @@ img {
 //
 // .masthead
 //
-
+.backgroundHead {
+	padding: 1em;
+	background: url("/images/paramo_back.png") no-repeat center center;
+	background-size: cover;
+}
 .wrapper-masthead {
   margin-bottom: 50px;
 }
