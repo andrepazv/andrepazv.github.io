@@ -53,9 +53,12 @@ Most of this work was done when I was part of the <a href="http://dna.ac" target
   <table align="left">
    <caption style="text-align:left"><strong>Distribution and climate correlates of tropical diseases</strong></caption>
   
-<tr><td style="width:20%;vertical-align: middle;"><img src="/images/web_tropicaldis.jpg" height="200"/></td><td style="width:80%;height:100%;vertical-align: middle;"> I love maps and models so I have been involved in different collaborative projects led by the amazing <a href="https://cimpat.uniandes.edu.co" target="_blank">Camila Gonzalez</a> at Universidad de los Andes in Colombia using spatially explicit sampling designs, ecological niche modeling and others to understand the distribution and climate drivers of tropical diseases, their vectors and causing agents. 
+<tr><td style="width:35%;vertical-align: middle;"><img src="/images/web_tropicaldis.jpg" height="200"/></td><td style="width:65%;height:100%;vertical-align: middle;"> I love maps and models so I have been involved in different collaborative projects led by the amazing <a href="https://cimpat.uniandes.edu.co" target="_blank">Camila Gonzalez</a> at Universidad de los Andes in Colombia using spatially explicit sampling designs, ecological niche modeling and others to understand the distribution and climate drivers of tropical diseases, their vectors and causing agents. 
 We published three papers out of this collaboration, on sandfly <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0190686" target="_blank">distribution</a> inside villages in northern Colombia, on sandfly distribution changes under <a href="http://www.sciencedirect.com/science/article/pii/S0001706X13002192" target="_blank">climate change</a> and, <a href="http://www.sciencedirect.com/science/article/pii/S0001706X13002192" target="_blank">one</a> on malaria vector, parasite and infection in Cordoba, Colombia.</td></tr>
 </table>
+&nbsp;
+&nbsp;
+<br>
  </div>
  <br>    
  <div class="subsection"> 
