@@ -13,7 +13,7 @@ body {
 <div class="subsection">  
 <strong><span style="color: #993366">Teaching & Mentoring</span></strong>  
   
-  I believe exchanging knowledge is key to succesful science and such an exchange can happen in different ways. In addition to teaching university courses I try to get involved in the mentoring of students at different levels including high school and undergraduate students as well as graduate students visiting our lab. 
+  I believe exchanging knowledge is key to succesful science and such an exchange can happen in different ways. In addition to teaching university courses I try to get involved in the mentoring of students at different levels including high school and undergraduate students as well as graduate students visiting our lab.<br> 
     **<a href="#Courses">Courses</a>** **<a href="#Workshops">Workshops</a>** **<a href="#Mentor">Mentoring</a>** **<a href="#Advisor">Advising</a>**
   <br> 
 </div>
@@ -45,14 +45,14 @@ body {
 <div class="subsection">  
 <strong><span style="color: #993366">Workshop co-instructor</span></strong>  
 
-<strong>Species distribution modeling for conservation in R and Wallace.</strong> Student Conference in Conservation Science at the American Museum of Natural History, New York, USA. October 2018 and 2019. Click [[here]](https://wallaceecomod.github.io){:target="_blank"} for more on Wallace. Co-organized with: Matthew Aiello-Lammens, Jamie Kass and Gonzalo E. Pinilla. 
+<strong>Species distribution modeling for conservation in R and Wallace.</strong> Student Conference in Conservation Science at the American Museum of Natural History, New York, USA. October 2018 and 2019. Click <a href="https://wallaceecomod.github.io" target="_blank">[here]</a> for more on Wallace. Co-organized with: Matthew Aiello-Lammens, Jamie Kass and Gonzalo E. Pinilla. 
 </div>
 <a name="Mentor"></a>
 <div class="subsection">  
 <strong><span style="color: #993366">Volunteer mentor</span></strong>  
 
 <strong>	Mentor, <a href="https://www.nyas.org/programs/global-stem-alliance/1000-girls-1000-futures/" target="_blank">[1000 Girls, 1000 Futures]</a>.</strong> New York Academy of Sciences (NYAS). Virtually meeting with one high school mentee (from overseas) on a regular basis to talk about life as a woman in STEM and help in completing the NYAS course. 2018-2019  
-
+<br>
 <strong>	Mentor, <a href="https://ccnywins.wixsite.com/womeninscience" target="_blank">[CCNY Women in Science]</a>.</strong> The City College of New York, New York, NY. Meeting with one undergraduate mentee on a regular basis to talk about life as a woman in STEM. Fall 2015-Spring 2016
 
 </div>
