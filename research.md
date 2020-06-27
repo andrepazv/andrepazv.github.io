@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: Research
+title: Welcome to my research page
 ---
 
 <style>
@@ -10,11 +10,9 @@ body {
 }
 </style>
 
-<body>
-Welcome to my research page! This page is under construction so thank you for your patience :-)!  
-  
+<body> 
 <div>  
-My main research right now is focused on patterns of neotropical diversity and their environmental correlates and the phylogeography of neotropical amphibians. However, I am generally interested in spatially explicit research and I love interdisciplinary research so I am or have been involved in projects spanning from the study of deforestation drivers to the distribution of tropical diseases. Here is a small summary of some of those projects. Some of them intersect each other and you might find publications or links that go inside 2 or more. If you want to know more don't hesitate to send me an email (paz.andreita[at]gmail.com)!  
+My main research right now is focused on patterns of neotropical diversity and their environmental correlates and the phylogeography of neotropical amphibians. However, I am generally interested in spatially explicit research and I love interdisciplinary research so I am or have been involved in projects spanning from the study of deforestation drivers to the distribution of tropical diseases. Here is a small summary of some of those projects. If you want to know more don't hesitate to send me an email (paz.andreita[at]gmail.com)!  
 </div>  
  <br>
 <div class="subsection"> 
@@ -66,7 +64,7 @@ We published three papers out of this collaboration, on sandfly <a href="http://
   
   
 <strong>Joining forces for interdisciplinary research</strong>
-I believe as biologists we have a lot to offer in interdisciplinary research that can have broader impacts in society and I am eager to participate of such interdisciplinary efforts. With this in mind I have in a few occasions joined forces with social scientists to better understand complex systems. This led to a few publications were we investigate the effect of communal property of land by afrocolombian communities in deforestation patterns [[Pub]](https://www.sciencedirect.com/science/article/pii/S0305750X19304863?dgcid=coauthor&amp;fbclid=IwAR3_2VE5mpYfSoeiTJwEysEGrzOSHdIL15MFwEvnfvGEhJuJ3Z-q7xnt8Yo){:target="_blank"}[[video (in spanish)]](https://www.youtube.com/watch?v=EXDzZW6zUX8&t=2s){:target="_blank"}
- and the impacts of planting local versus clonal varieties of cacao in Ecuador for both communities and biodiversity [[Pub here]](http://onlinelibrary.wiley.com/doi/10.1002/bse.2011/full){:target="_blank"}. Looking forward to more collaborations like these!
+I believe as biologists we have a lot to offer in interdisciplinary research that can have broader impacts in society and I am eager to participate of such interdisciplinary efforts. With this in mind I have in a few occasions joined forces with social scientists to better understand complex systems. This led to a few publications were we investigate the effect of communal property of land by afrocolombian communities in deforestation patterns <a href="https://www.sciencedirect.com/science/article/pii/S0305750X19304863" target="_blank">[Pub]</a><a href="https://www.youtube.com/watch?v=EXDzZW6zUX8&t=2s" target="_blank>[video (in spanish)]</a>
+ and the impacts of planting local versus clonal varieties of cacao in Ecuador for both communities and biodiversity <a href="http://onlinelibrary.wiley.com/doi/10.1002/bse.2011/full" target="_blank">[Pub here]</a>. Looking forward to more collaborations like these!
 </div>
 </body>
