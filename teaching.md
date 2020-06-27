@@ -22,7 +22,7 @@ body {
 <a name="Courses"></a>
 <div class="subsection">  
 <strong><span style="color: #993366">Formal Courses</span></strong>  
-
+<br>
 <strong>Lecturer</strong>
 <ul>
  	<li>Biogeography. Pontificia Universidad Javeriana. 2014-2015</li>
