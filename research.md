@@ -11,7 +11,7 @@ Welcome to my research page! This page is under construction so thank you for yo
   
   
 My main research right now is focused on patterns of neotropical diversity and their environmental correlates and the phylogeography of neotropical amphibians. However, I am generally interested in spatially explicit research and I love interdisciplinary research so I am or have been involved in projects spanning from the study of deforestation drivers to the distribution of tropical diseases. Here is a small summary of some of those projects. Some of them intersect each other and you might find publications or links that go inside 2 or more. If you want to know more don't hesitate to send me an email (paz.andreita[at]gmail.com)! 
-<div class=subsection>
+<div class="subsection">
 <strong>Mapping diversity patterns in the neotropics and understanding their environmental correlates</strong>  
 
 <img style="float: left;" src="/images/AF_diversity.png" height="150">
@@ -20,7 +20,7 @@ For my dissertation I have been evaluating how environmental variables such as c
 &nbsp;
 &nbsp;
 <br>
-<\div>
+</div>
 <strong>Phylogeography of Neotropical Amphibians: traits, climate and geography as drivers of genetic diversity</strong>
 <img src="/images/traits_phylo.png" height="200">  
 
