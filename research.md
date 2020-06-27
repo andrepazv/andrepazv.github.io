@@ -39,11 +39,11 @@ For years I have been interested in the determinants of genetic structure and ge
 </div>
 <br>    
 <div class="subsection">
-<strong>DNA Barcoding in the neotropics and potential applications</strong>  
-<img style="float: left;" src="/images/dnabarcode.jpg" height="200">
-<br>
-Although I am not currently working on this, I did for a few years and would love to go back to it. The project included using DNA barcode data for phylogeography applications <a href="http://onlinelibrary.wiley.com/doi/10.1111/mec.13275/abstract" target="_blank">[here]</a>, for surveying diversity <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0127312" target="_blank">[here]</a> and for identification of fauna in illegal traffic seizures <a href="http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12515/abstract" target="_blank">[link]</a>. Within this project I also published a review of DNA barcoding uses in Spanish <a href="http://revistas.unal.edu.co/index.php/actabiol/article/view/19782/28016" target="_blank">[Get]</a> and a comparison of species id accuracy using different methods <a href="http://link.springer.com/article/10.1007%2Fs12038-012-9255-x" target="_blank">[here]</a>.  
-Most of this work was done when I was part of the <a href="http://dna.ac" target="_blank">CrawfordLab</a> at the Universidad de los Andes in Colombia and continued as a collaboration with that awesome lab. Definitely check it out! 
+  <table align="left">
+   <caption style="text-align:left"><strong>DNA Barcoding in the neotropics and potential applications</strong></caption>
+
+ <tr><td style="width:30%;vertical-align: middle;"><img style="float: left;" src="/images/dnabarcode.jpg" height="200">/></td><td style="width:80%;height:100%;vertical-align: middle;"> Although I am not currently working on this, I did for a few years and would love to go back to it. The project included using DNA barcode data for phylogeography applications <a href="http://onlinelibrary.wiley.com/doi/10.1111/mec.13275/abstract" target="_blank">[here]</a>, for surveying diversity <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0127312" target="_blank">[here]</a> and for identification of fauna in illegal traffic seizures <a href="http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12515/abstract" target="_blank">[link]</a>. Within this project I also published a review of DNA barcoding uses in Spanish <a href="http://revistas.unal.edu.co/index.php/actabiol/article/view/19782/28016" target="_blank">[Get]</a> and a comparison of species id accuracy using different methods <a href="http://link.springer.com/article/10.1007%2Fs12038-012-9255-x" target="_blank">[here]</a>.  
+Most of this work was done when I was part of the <a href="http://dna.ac" target="_blank">CrawfordLab</a> at the Universidad de los Andes in Colombia and continued as a collaboration with that awesome lab. Definitely check it out! </td></tr>
   
 &nbsp;
 &nbsp;
