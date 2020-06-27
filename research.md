@@ -31,6 +31,7 @@ This work has been done in collaboration with past and present members of two gr
 &nbsp;
 &nbsp;
 <br>
+----
 <strong>DNA Barcoding in the neotropics and potential applications</strong>  
 
 <img style="float: left;" src="/images/dnabarcode.jpg" height="200">
