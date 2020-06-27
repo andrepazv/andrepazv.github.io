@@ -42,13 +42,16 @@ body {
  	<li>Mathematics 3. Universidad de los Andes. 2009</li>
 </ul>
 </div>
-<a name="Workshops"></a>
-<div class="subsection">  
-<strong><span style="color: #993366">Workshop co-instructor</span></strong>  
 <br>
-<img style="float: right;" src="/images/wallace.png" height="200">  
-<strong>Species distribution modeling for conservation in R and Wallace.</strong> Student Conference in Conservation Science at the American Museum of Natural History, New York, USA. October 2018 and 2019. Click <a href="https://wallaceecomod.github.io" target="_blank">[here]</a> for more on Wallace. Co-organized with: Matthew Aiello-Lammens, Jamie Kass and Gonzalo E. Pinilla. 
+<a name="Workshops"></a>
+<div class="subsection"> 
+  <strong><span style="color: #993366">Workshop co-instructor</span></strong> 
+   <table align="left">
+   <caption style="text-align:left"><strong>Species distribution modeling for conservation in R and Wallace</strong></caption>
+ <tr><td style="width:75%;height:100%;vertical-align: middle;"></strong> Student Conference in Conservation Science at the American Museum of Natural History, New York, USA. October 2018 and 2019. Click <a href="https://wallaceecomod.github.io" target="_blank">[here]</a> for more on Wallace. Co-organized with: Matthew Aiello-Lammens, Jamie Kass and Gonzalo E. Pinilla.</td><td><img style="float: right;" src="/images/wallace.png" height="200"/></td></tr>
+ </table>
 </div>
+<br>
 <a name="Mentor"></a>
 <div class="subsection">  
 <strong><span style="color: #993366">Volunteer mentor</span></strong>  
