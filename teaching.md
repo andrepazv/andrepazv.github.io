@@ -14,12 +14,12 @@ body {
 <strong><span style="color: #993366">Teaching & Mentoring</span></strong>  
   
   I believe exchanging knowledge is key to succesful science and such an exchange can happen in different ways. In addition to teaching university courses I try to get involved in the mentoring of students at different levels including high school and undergraduate students as well as graduate students visiting our lab. 
-    **<a href="#Formal Courses">Courses</a>**
+    **<a href="#Courses">Courses</a>** **<a href="#Workshops">Workshops</a>**
   <br> 
 </div>
 <br>
-<a name="Formal courses"></a>
-<strong><span style="color: #993366">Formal courses</span></strong>  
+<a name="Courses"></a>
+<strong><span style="color: #993366">Formal Courses</span></strong>  
 
 <strong>Lecturer</strong>
 <ul>
@@ -39,7 +39,7 @@ body {
  	<li>Animal Physiology. Universidad de los Andes. 2009</li>
  	<li>Mathematics 3. Universidad de los Andes. 2009</li>
 </ul>
-
+<a name="Workshops"></a>
 <strong><span style="color: #993366">Workshop co-instructor</span></strong>  
 
 <strong>Species distribution modeling for conservation in R and Wallace.</strong> Student Conference in Conservation Science at the American Museum of Natural History, New York, USA. October 2018 and 2019. Click [[here]](https://wallaceecomod.github.io){:target="_blank"} for more on Wallace. Co-organized with: Matthew Aiello-Lammens, Jamie Kass and Gonzalo E. Pinilla. 
