@@ -14,7 +14,7 @@ body {
 <strong><span style="color: #993366">Teaching & Mentoring</span></strong>  
   
   I believe exchanging knowledge is key to succesful science and such an exchange can happen in different ways. In addition to teaching university courses I try to get involved in the mentoring of students at different levels including high school and undergraduate students as well as graduate students visiting our lab. 
-    **<a href="#Courses">Courses</a>** **<a href="#Workshops">Workshops</a>** **<a href="#Mentor">Mentoring</a>** **<a href="#Advisor">Advisoring</a>**
+    **<a href="#Courses">Courses</a>** **<a href="#Workshops">Workshops</a>** **<a href="#Mentor">Mentoring</a>** **<a href="#Advisor">Advising</a>**
   <br> 
 </div>
 <br>
@@ -51,9 +51,9 @@ body {
 <div class="subsection">  
 <strong><span style="color: #993366">Volunteer mentor</span></strong>  
 
-<strong>	Mentor, [[1000 Girls, 1000 Futures]](https://www.nyas.org/programs/global-stem-alliance/1000-girls-1000-futures/){:target="_blank"}.</strong> New York Academy of Sciences (NYAS). Virtually meeting with one high school mentee (from overseas) on a regular basis to talk about life as a woman in STEM and help in completing the NYAS course. 2018-2019  
+<strong>	Mentor, <a href="https://www.nyas.org/programs/global-stem-alliance/1000-girls-1000-futures/" target="_blank">[1000 Girls, 1000 Futures]</a>.</strong> New York Academy of Sciences (NYAS). Virtually meeting with one high school mentee (from overseas) on a regular basis to talk about life as a woman in STEM and help in completing the NYAS course. 2018-2019  
 
-<strong>	Mentor, [[CCNY Women in Science]](https://ccnywins.wixsite.com/womeninscience){:target="_blank"}.</strong> The City College of New York, New York, NY. Meeting with one undergraduate mentee on a regular basis to talk about life as a woman in STEM. Fall 2015-Spring 2016
+<strong>	Mentor, <a href="https://ccnywins.wixsite.com/womeninscience" target="_blank">[CCNY Women in Science]</a>.</strong> The City College of New York, New York, NY. Meeting with one undergraduate mentee on a regular basis to talk about life as a woman in STEM. Fall 2015-Spring 2016
 
 </div>
 <a name="Advisor"></a>
