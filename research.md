@@ -49,8 +49,7 @@ Most of this work was done when I was part of the <a href="http://dna.ac" target
 <br>    
 <div class="subsection">
   <table align="left">
-   <caption style="text-align:left"><strong>Distribution and climate correlates of tropical diseases</strong></caption>
-  
+   <caption style="text-align:left"><strong>Distribution and climate correlates of tropical diseases</strong></caption>  
 <tr><td style="width:35%;vertical-align: middle;"><img src="/images/web_tropicaldis.jpg" height="200"/></td><td style="width:65%;height:100%;vertical-align: middle;"> I love maps and models so I have been involved in different collaborative projects led by the amazing <a href="https://cimpat.uniandes.edu.co" target="_blank">Camila Gonzalez</a> at Universidad de los Andes in Colombia using spatially explicit sampling designs, ecological niche modeling and others to understand the distribution and climate drivers of tropical diseases, their vectors and causing agents. 
 We published three papers out of this collaboration, on sandfly <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0190686" target="_blank">distribution</a> inside villages in northern Colombia, on sandfly distribution changes under <a href="http://www.sciencedirect.com/science/article/pii/S0001706X13002192" target="_blank">climate change</a> and, <a href="http://www.sciencedirect.com/science/article/pii/S0001706X13002192" target="_blank">one</a> on malaria vector, parasite and infection in Cordoba, Colombia.</td></tr>
 </table>
@@ -60,11 +59,15 @@ We published three papers out of this collaboration, on sandfly <a href="http://
  </div>
  <br>    
  <div class="subsection"> 
-<strong>Joining forces for interdisciplinary research</strong>
- <br>
-<img style="float: right;" src="/images/word_cloud.jpg" height="200">   
-I believe as biologists we have a lot to offer in interdisciplinary research that can have broader impacts in society and I am eager to participate of such interdisciplinary efforts. With this in mind I have in a few occasions joined forces with social scientists to better understand complex systems. This led to a few publications were we investigate the effect of communal property of land by afrocolombian communities in deforestation patterns <a href="https://www.sciencedirect.com/science/article/pii/S0305750X19304863" target="_blank">[Pub]</a><a href="https://www.youtube.com/watch?v=EXDzZW6zUX8&t=2s" target="_blank">[video (in spanish)]</a>
- and the impacts of planting local versus clonal varieties of cacao in Ecuador for both communities and biodiversity <a href="http://onlinelibrary.wiley.com/doi/10.1002/bse.2011/full" target="_blank">[Pub here]</a>. Looking forward to more collaborations like these!
+<table align="left">
+<caption style="text-align:left"><strong>Joining forces for interdisciplinary research</strong></caption>
+<tr><td style="width:65%;vertical-align: middle;"> I believe as biologists we have a lot to offer in interdisciplinary research that can have broader impacts in society and I am eager to participate of such interdisciplinary efforts. With this in mind I have in a few occasions joined forces with social scientists to better understand complex systems. This led to a few publications were we investigate the effect of communal property of land by afrocolombian communities in deforestation patterns <a href="https://www.sciencedirect.com/science/article/pii/S0305750X19304863" target="_blank">[Pub]</a><a href="https://www.youtube.com/watch?v=EXDzZW6zUX8&t=2s" target="_blank">[video (in spanish)]</a>
+ and the impacts of planting local versus clonal varieties of cacao in Ecuador for both communities and biodiversity <a href="http://onlinelibrary.wiley.com/doi/10.1002/bse.2011/full" target="_blank">[Pub here]</a>. Looking forward to more collaborations like these!</td>
+ <td style="width:35%;height:100%;vertical-align: middle;"> <img src="/images/word_cloud.jpg" /></td></tr>
+ </table>
+&nbsp;
+&nbsp;
+<br>
 </div>
 <br>
  <div class="subsection"> 
