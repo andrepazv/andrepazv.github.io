@@ -2,10 +2,20 @@
 layout: page
 permalink: /teaching/
 ---
+
+<style>
+body {
+  background-color: #d4d8d950;
+}
+</style>
+
+<body> 
+<div class="subsection">  
 <strong><span style="color: #993366">Teaching & Mentoring</span></strong>  
   
   I believe exchanging knowledge is key to succesful science and such an exchange can happen in different ways. In addition to teaching university courses I try to get involved in the mentoring of students at different levels including high school and undergraduate students as well as graduate students visiting our lab. 
-
+</div>
+<br>
 <strong><span style="color: #993366">Formal courses</span></strong>  
 
 <strong>Lecturer</strong>
