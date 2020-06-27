@@ -14,7 +14,8 @@ body {
 <strong><span style="color: #993366">Teaching & Mentoring</span></strong>  
   
   I believe exchanging knowledge is key to succesful science and such an exchange can happen in different ways. In addition to teaching university courses I try to get involved in the mentoring of students at different levels including high school and undergraduate students as well as graduate students visiting our lab.<br> 
-    **<a href="#Courses">Courses</a>** **<a href="#Workshops">Workshops</a>** **<a href="#Mentor">Mentoring</a>** **<a href="#Advisor">Advising</a>**
+  Click here for more details for each category:
+  <a href="#Courses">Courses</a> <a href="#Workshops">Workshops</a> <a href="#Mentor">Mentoring</a> <a href="#Advisor">Advising</a>
   <br> 
 </div>
 <br>
