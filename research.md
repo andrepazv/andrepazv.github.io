@@ -30,7 +30,10 @@ My main research right now is focused on patterns of neotropical diversity and t
 &nbsp;
 <br>
 </div> 
-
+  
+    
+      
+      
 <div class="subsection">
 <strong>Phylogeography of Neotropical Amphibians: traits, climate and geography as drivers of genetic diversity</strong>
 <img src="/images/traits_phylo.png" height="200">  
