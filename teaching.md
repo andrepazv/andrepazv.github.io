@@ -49,6 +49,7 @@ body {
    <table align="left">
    <caption style="text-align:left"><strong>Species distribution modeling for conservation in R and Wallace</strong></caption>
  <tr><td style="width:65%;height:100%;vertical-align: middle;"> Student Conference in Conservation Science at the American Museum of Natural History, New York, USA. October 2018 and 2019. Click <a href="https://wallaceecomod.github.io" target="_blank">[here]</a> for more on Wallace. Co-organized with: Matthew Aiello-Lammens, Jamie Kass and Gonzalo E. Pinilla.</td><td style="width:35%;vertical-align: middle;"><img src="/images/wallace.png"/></td></tr>
+   <br>
  </table>
   <br>
 </div>
