@@ -12,7 +12,7 @@ body {
 
 <body> 
 <div class="subsection">  
-  My main research right now is focused on patterns of neotropical diversity and their environmental correlates and the phylogeography of neotropical amphibians.<br>    I am generally interested in spatially explicit research and I love interdisciplinary research so I am or have been involved in projects spanning from the study of deforestation drivers to the distribution of tropical diseases.<br>  Here is a small summary of some of those projects but if you want to know more don't hesitate to send me an email (paz.andreita[at]gmail.com)!  
+  My main research right now is focused on patterns of neotropical diversity and their environmental correlates and the phylogeography of neotropical amphibians.<br>    <tab>I am generally interested in spatially explicit research and I love interdisciplinary research so I am or have been involved in projects spanning from the study of deforestation drivers to the distribution of tropical diseases.<br><tab>Here is a small summary of some of those projects but if you want to know more don't hesitate to send me an email (paz.andreita[at]gmail.com)!  
 </div>  
  <br>
 <div class="subsection"> 
