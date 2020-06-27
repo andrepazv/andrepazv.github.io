@@ -69,6 +69,7 @@ I believe as biologists we have a lot to offer in interdisciplinary research tha
  <div class="subsection"> 
 <strong>Amphibian conservation</strong>
  <br>
+ <img src="/images/Frog.png" height="200">  
 I started my career as a biologist working with frogs and they will always have a special place in my heart. I am happy to contrubute to porjects aiming at conservation this wonderful group of animals. I have worked with a group of researchers led by <a href="https://vickyflechas.weebly.com" target="_blank">Vicky Flechas</a> to study how the chytrid fungi currently threatening hundreds of species is distributed in Colombia <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/btp.12457" target="_blank">[Pub]</a><a href="http://reporte.humboldt.org.co/biodiversidad/2018/cap2/204/" target="_blank">[Scicomm (in Spanish)]</a>.I have also been involved with aproject studying how illegal trafficking has eroded genetic diversity of a beautiful poison frog, <i>Oophaga lehmanni</i> in the Pacific coast of Colombia <a href="https://link.springer.com/article/10.1007/s10592-020-01262-w" target="_blank">[Pub]</a>. 
 
 </div>
