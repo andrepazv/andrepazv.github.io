@@ -58,7 +58,7 @@ body {
 <br>
 <a name="Mentor"></a>
 <div class="subsection">  
-<strong><span style="color: #993366">Volunteer mentor</span></strong>  
+<strong><span style="color: #993366">Volunteer mentor, supporting girls and women in STEM</span></strong>  
 <br>
 <strong>	Mentor, <a href="https://www.nyas.org/programs/global-stem-alliance/1000-girls-1000-futures/" target="_blank">[1000 Girls, 1000 Futures]</a>.</strong> New York Academy of Sciences (NYAS). Virtually meeting with one high school mentee (from overseas) on a regular basis to talk about life as a woman in STEM and help in completing the NYAS course. 2018-2019  
 <br>
