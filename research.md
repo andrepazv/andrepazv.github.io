@@ -12,13 +12,11 @@ body {
 
 <body>
 Welcome to my research page! This page is under construction so thank you for your patience :-)!  
-
   
-  
-  
+<div>  
 My main research right now is focused on patterns of neotropical diversity and their environmental correlates and the phylogeography of neotropical amphibians. However, I am generally interested in spatially explicit research and I love interdisciplinary research so I am or have been involved in projects spanning from the study of deforestation drivers to the distribution of tropical diseases. Here is a small summary of some of those projects. Some of them intersect each other and you might find publications or links that go inside 2 or more. If you want to know more don't hesitate to send me an email (paz.andreita[at]gmail.com)!  
-  
-  
+</div>  
+ <br>
 <div class="subsection"> 
 <table align="left">
    <caption style="text-align:left"><strong>Mapping diversity patterns in the neotropics and understanding their environmental correlates</strong> </caption>
@@ -32,7 +30,7 @@ My main research right now is focused on patterns of neotropical diversity and t
 <div class="subsection">
 <strong>Phylogeography of Neotropical Amphibians: traits, climate and geography as drivers of genetic diversity</strong>
 <img src="/images/traits_phylo.png" height="200">  
-
+<br>
 For years I have been interested in the determinants of genetic structure and genetic diversity in neotropical amphibians. I have found that a combination of factors are important and this is related to species traits (e.g. dispersal ability). It is the interaction between each species traits and their environment that determines the strength or permeability of a given barrier. Here are links to a few publications related to this project: <a href="https://escholarship.org/uc/item/32g8q7x3" target="_blank">[Get1]</a><a href="https://rdcu.be/9Y1T" target="_blank">[Get2]</a><a href="http://onlinelibrary.wiley.com/doi/10.1111/mec.13275/abstract" target="_blank">[Get3]</a><a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0127312" target="_blank">[Get4]</a>. This work has been done in collaboration with past and present members of two great labs: The <a href="http://dna.ac" target="_blank">CrawfordLab</a> at Universidad de los Andes in Colombia and The <a href="https://www.carnavallab.org" target="_blank">CarnavalLab</a> at CUNY. 
   
 &nbsp;
