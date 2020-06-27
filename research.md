@@ -6,7 +6,7 @@ title: Research
 
 <style>
 body {
-  background-color: #92a8d1;
+  background-color: #d4d8d950;
 }
 </style>
 
