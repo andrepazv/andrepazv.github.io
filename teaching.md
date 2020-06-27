@@ -63,8 +63,8 @@ body {
 <strong>	Mentor, <a href="https://www.nyas.org/programs/global-stem-alliance/1000-girls-1000-futures/" target="_blank">[1000 Girls, 1000 Futures]</a>.</strong> New York Academy of Sciences (NYAS). Virtually meeting with one high school mentee (from overseas) on a regular basis to talk about life as a woman in STEM and help in completing the NYAS course. 2018-2019  
 <br>
 <strong>	Mentor, <a href="https://ccnywins.wixsite.com/womeninscience" target="_blank">[CCNY Women in Science]</a>.</strong> The City College of New York, New York, NY. Meeting with one undergraduate mentee on a regular basis to talk about life as a woman in STEM. Fall 2015-Spring 2016
-
 </div>
+<br>
 <a name="Advisor"></a>
 <div class="subsection">  
 <strong><span style="color: #993366">Thesis co-advisor</span></strong>  
