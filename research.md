@@ -42,6 +42,7 @@ This work has been done in collaboration with past and present members of two gr
 &nbsp;
 <br>
 </div>
+<br>    
 <div class="subsection">
 <strong>DNA Barcoding in the neotropics and potential applications</strong>  
 
@@ -53,12 +54,14 @@ Most of this work was done when I was part of the [CrawfordLab](http://dna.ac){:
 &nbsp;
 <br>
 </div>
+<br>    
 <div class="subsection">
 <strong>Distribution and climate correlates of tropical diseases</strong>  
 
 <img style="float: right;" src="/images/web_tropicaldis.jpg" height="200"> I love maps and models so I have been involved in different collaborative projects led by the amazing [Camila Gonzalez](https://cimpat.uniandes.edu.co){:target="_blank"} at Universidad de los Andes in Colombia using spatially explicit sampling designs, ecological niche modeling and others to understand the distribution and climate drivers of tropical diseases, their vectors and causing agents. 
 We published three papers out of this collaboration, two on sandfly distribution, under [climate change](http://www.sciencedirect.com/science/article/pii/S0001706X13002192){:target="_blank"} and [distribution](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0190686){:target="_blank"} inside villages in northern Colombia and, [one](http://www.sciencedirect.com/science/article/pii/S0001706X13002192){:target="_blank"} on malaria vector, parasite and infection in Cordoba, Colombia.  
  </div>
+ <br>    
  <div class="subsection"> 
   
   
