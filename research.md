@@ -40,6 +40,7 @@ This work has been done in collaboration with past and present members of two gr
 &nbsp;
 <br>
 </div>
+<div class="subsection">
 <strong>DNA Barcoding in the neotropics and potential applications</strong>  
 
 <img style="float: left;" src="/images/dnabarcode.jpg" height="200">
@@ -49,17 +50,19 @@ Most of this work was done when I was part of the [CrawfordLab](http://dna.ac){:
 &nbsp;
 &nbsp;
 <br>
+</div>
+<div class="subsection">
 <strong>Distribution and climate correlates of tropical diseases</strong>  
 
 <img style="float: right;" src="/images/web_tropicaldis.jpg" height="200"> I love maps and models so I have been involved in different collaborative projects led by the amazing [Camila Gonzalez](https://cimpat.uniandes.edu.co){:target="_blank"} at Universidad de los Andes in Colombia using spatially explicit sampling designs, ecological niche modeling and others to understand the distribution and climate drivers of tropical diseases, their vectors and causing agents. 
 We published three papers out of this collaboration, two on sandfly distribution, under [climate change](http://www.sciencedirect.com/science/article/pii/S0001706X13002192){:target="_blank"} and [distribution](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0190686){:target="_blank"} inside villages in northern Colombia and, [one](http://www.sciencedirect.com/science/article/pii/S0001706X13002192){:target="_blank"} on malaria vector, parasite and infection in Cordoba, Colombia.  
-  
-  
+ </div>
+ <div class="subsection"> 
   
   
   
 <strong>Joining forces for interdisciplinary research</strong>
 I believe as biologists we have a lot to offer in interdisciplinary research that can have broader impacts in society and I am eager to participate of such interdisciplinary efforts. With this in mind I have in a few occasions joined forces with social scientists to better understand complex systems. This led to a few publications were we investigate the effect of communal property of land by afrocolombian communities in deforestation patterns [[Pub]](https://www.sciencedirect.com/science/article/pii/S0305750X19304863?dgcid=coauthor&amp;fbclid=IwAR3_2VE5mpYfSoeiTJwEysEGrzOSHdIL15MFwEvnfvGEhJuJ3Z-q7xnt8Yo){:target="_blank"}[[video (in spanish)]](https://www.youtube.com/watch?v=EXDzZW6zUX8&t=2s){:target="_blank"}
  and the impacts of planting local versus clonal varieties of cacao in Ecuador for both communities and biodiversity [[Pub here]](http://onlinelibrary.wiley.com/doi/10.1002/bse.2011/full){:target="_blank"}. Looking forward to more collaborations like these!
-
+</div>
 </body>
