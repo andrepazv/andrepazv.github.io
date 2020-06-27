@@ -64,7 +64,7 @@ We published three papers out of this collaboration, on sandfly <a href="http://
   
   
 <strong>Joining forces for interdisciplinary research</strong>
-I believe as biologists we have a lot to offer in interdisciplinary research that can have broader impacts in society and I am eager to participate of such interdisciplinary efforts. With this in mind I have in a few occasions joined forces with social scientists to better understand complex systems. This led to a few publications were we investigate the effect of communal property of land by afrocolombian communities in deforestation patterns <a href="https://www.sciencedirect.com/science/article/pii/S0305750X19304863" target="_blank">[Pub]</a><a href="https://www.youtube.com/watch?v=EXDzZW6zUX8&t=2s" target="_blank>[video (in spanish)]</a>
+I believe as biologists we have a lot to offer in interdisciplinary research that can have broader impacts in society and I am eager to participate of such interdisciplinary efforts. With this in mind I have in a few occasions joined forces with social scientists to better understand complex systems. This led to a few publications were we investigate the effect of communal property of land by afrocolombian communities in deforestation patterns <a href="https://www.sciencedirect.com/science/article/pii/S0305750X19304863" target="_blank">[Pub]</a><a href="https://www.youtube.com/watch?v=EXDzZW6zUX8&t=2s" target="_blank">[video (in spanish)]</a>
  and the impacts of planting local versus clonal varieties of cacao in Ecuador for both communities and biodiversity <a href="http://onlinelibrary.wiley.com/doi/10.1002/bse.2011/full" target="_blank">[Pub here]</a>. Looking forward to more collaborations like these!
 </div>
 </body>
