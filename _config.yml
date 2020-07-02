@@ -80,3 +80,16 @@ exclude:
   - CNAME
 
 theme: jekyll-theme-minimal
+#from slides
+defaults:
+  -
+    scope:
+      path: "_slides" 
+    values:
+      layout: "iframe"
+
+collections:
+  slides:
+    output: true
+
+
