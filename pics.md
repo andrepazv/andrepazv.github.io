@@ -13,10 +13,6 @@ This site is under construction! In the meantime here is a picture of my favorit
 <img src="/images/DSC_4592.jpg" width="450">
 
 
-### Contact me:
 
-paz.andreita[at]gmail.com
-
-
-<iframe class="slideshow-iframe" src="https://MarkusThill.github.io/slides/my-pics1.html"
+<iframe class="slideshow-iframe" src="https:/andrepazv.github.io/slides/my-pics1.html"
 style="width:100%" frameborder="0" scrolling="no" onload="resizeIframe(this)"></iframe>`
