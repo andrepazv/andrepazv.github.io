@@ -14,5 +14,5 @@ This site is under construction! In the meantime here is a picture of my favorit
 
 
 
-<iframe class="slideshow-iframe" src="https:/andrepazv.github.io/slides/my-pics1.html"
+<iframe class="slideshow-iframe" src="https://andrepazv.github.io/slides/my-pics1.html"
 style="width:100%" frameborder="0" scrolling="no" onload="resizeIframe(this)"></iframe>`
