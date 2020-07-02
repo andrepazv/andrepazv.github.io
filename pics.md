@@ -10,11 +10,26 @@ title: Pictures from the field and more
 
 
 
-This site is under construction! In the meantime here is a picture of my favorite ecosystem, the Paramo. 
 
 
 
-<img src="/images/DSC_4592.jpg" width="450">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
