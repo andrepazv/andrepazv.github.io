@@ -4,6 +4,8 @@ permalink: /pics/
 title: Pictures from the field and more
 ---
 
+Life has taken me to wonderful places for fieldwork, workshops, courses, conferences and more. Here are a few pics from those trips!
+All pictures on this page were taken by myself unless otherwise specified!
 <iframe class="slideshow-iframe" src="https://andrepazv.github.io/slides/my-pics1.html"
  width="100%"  frameborder="0" scrolling="yes" ></iframe>`
 
