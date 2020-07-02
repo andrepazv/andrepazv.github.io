@@ -4,6 +4,10 @@ permalink: /pics/
 title: Pictures from the field and more
 ---
 
+<iframe class="slideshow-iframe" src="https://andrepazv.github.io/slides/my-pics1.html"
+style="width:100%" frameborder="0" scrolling="no" onload="resizeIframe(this)"></iframe>`
+
+
 
 
 This site is under construction! In the meantime here is a picture of my favorite ecosystem, the Paramo. 
@@ -14,5 +18,4 @@ This site is under construction! In the meantime here is a picture of my favorit
 
 
 
-<iframe class="slideshow-iframe" src="https://andrepazv.github.io/slides/my-pics1.html"
-style="width:100%" frameborder="0" scrolling="no" onload="resizeIframe(this)"></iframe>`
+
