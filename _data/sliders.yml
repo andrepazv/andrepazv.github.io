@@ -2,11 +2,11 @@
 - selector: example_slider
   captions: true
   images:
-    - src: /img/1.jpg
+    - src: example/img/1.jpg
       alt: image one
-    - src: /img/2.jpg
+    - src: example/img/2.jpg
       alt: image two
-    - src: /img/3.jpg
+    - src: example/img/3.jpg
       alt: image three
   settings:
     height: "'auto'"
