@@ -2,8 +2,8 @@
 - selector: example_slider
   captions: true
   images:
-    - src: example/img/1.jpg
-      alt: image one
+    - src: images/slides/Arusi.jpg
+      alt: Oophaga histrionica. Arusí, Chocó, Colombia. 2011
     - src: example/img/2.jpg
       alt: image two
     - src: example/img/3.jpg
