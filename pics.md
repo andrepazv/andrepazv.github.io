@@ -12,18 +12,19 @@ This site is under construction! More pics will be added soon :-)
 <br>
   <a href="#Herps">Herps</a>&nbsp; <a href="#Field">Field Work</a>&nbsp; <a href="#Landscapes">Landscapes</a>
   <br> 
-</div>
 <br>
-<a name="Herps">Herps</a>
-
+<a name="Herps"></a>
+<strong> Herps </strong>
 
 
 {% include slider.html selector="Herps" %}
 
 <br>
-<a name="Field">Field Work</a>
+<a name="Field"></a>
+<strong> Field work </strong>
 <br>
-<a name="Landscapes">Landscapes</a>
+<a name="Landscapes"></a>
+<strong> Landscapes </strong>
 
 
 
