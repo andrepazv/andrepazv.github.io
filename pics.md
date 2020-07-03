@@ -26,6 +26,8 @@ This site is under construction! More pics will be added soon :-)
 <br>
 <a name="Landscapes"></a>
 <strong> Landscapes </strong>
+
+
 {% include slider.html selector="Landscape" %}
 
 
