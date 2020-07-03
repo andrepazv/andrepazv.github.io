@@ -1,6 +1,8 @@
 ---
 layout: page
 permalink: /pics/
+image_sliders:
+  - example_slider
 title: Pictures from the field and more
 ---
 This site is under construction! In the meantime here is a picture of my favorite ecosystem, the Paramo. 
@@ -12,8 +14,7 @@ Life has taken me to wonderful places for fieldwork, workshops, courses, confere
 All pictures on this page were taken by myself unless otherwise specified!
 
 
-image_sliders:
-  - example_slider
+
 
 {% include slider.html selector="example_slider" %}
 
