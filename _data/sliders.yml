@@ -10,7 +10,7 @@
     - src: images/slides/Gorgona.jpg
       alt: <i>Epipedobates boulengeri</i>.Gorgona, Colombia. 2012
     - src: images/slides/Madagascar.jpg
-      alt: Andasibe, Madagascar, 2019
+      alt: Andasibe, Madagascar. 2019
     - src: images/slides/Palomino.jpg
       alt: <i>Boana xerophylla</i>. Palomino, Guajira, Colombia. 2011
     - src: images/slides/Sierra.jpg
@@ -23,6 +23,34 @@
       alt: <i>Leptodactylus lithonaetes</i>. Reserva Bojonawi, Vichada, Colombia. 2012
     - src: images/slides/Monteria.jpg
       alt: Montería, Córdoba, Colombia. 2015
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+# Slider with landscape pics
+- selector: Landscape
+  captions: true
+  bullets: true
+  images:
+    - src: images/slides/landscapes/BCI.jpg
+      alt: BCI, Panama. 2014
+    - src: images/slides/landscapes/bemaraha.jpg
+      alt: Tsingy de Bemaraha, Madagascar. 2019
+    - src: images/slides/landscapes/Bojonawi.jpg
+      alt: Reserva Bojonawi, Vichada, Colombia. 2012
+    - src: images/slides/landscapes/Boraceia.jpg
+      alt: Boraceia, São Paulo, Brazil. 2018
+    - src: images/slides/landscapes/Chingaza.jpg
+      alt: PNN Chingaza, Colombia. 2012
+    - src: images/slides/landscapes/Iguaque.jpg
+      alt: SFF Iguaque, Colombia. 2014
+    - src: images/slides/landscapes/Mataredonda.jpg
+      alt: Parque Ecológico Mataredonda, Colombia. 2015
+    - src: images/slides/landscapes/Monitos.jpg
+      alt: Moñitos, Córdoba, Colombia. 2015
+    - src: images/slides/landscapes/rioBog.jpg
+      alt: Laguna "El Mapa", Colombia. 2013
+    - src: images/slides/landscapes/Tatacoa.jpg
+      alt: Desierto de la Tatacoa, Colombia. 2013
   settings:
     height: "'auto'"
     effect: "'fade'"
