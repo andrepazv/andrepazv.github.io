@@ -1,16 +1,16 @@
-# example slider
-- selector: example_slider
+# Slider with herp pics
+- selector: Herps
   captions: true
   bullets: true
   images:
     - src: images/slides/Arusi.jpg
-      alt: Oophaga histrionica. Arusí, Chocó, Colombia. 2011
+      alt: <i>Oophaga histrionica</i>. Arusí, Chocó, Colombia. 2011
     - src: images/slides/F_guiana.jpg
       alt: Kourou, French Guiana. 2013
     - src: images/slides/Gorgona.jpg
-      alt: Atelopus spurrrelli. Arusí, Chocó, Colombia. 2011
+      alt: <i>Atelopus spurrrelli</i>. Arusí, Chocó, Colombia. 2011
     - src: images/slides/Madagascar.jpg
-      alt: image three
+      alt: Andasibe, Madagascar, 2019
     - src: images/slides/Palomino.jpg
       alt: <i>Boana xerophylla</i>. Palomino, Guajira, Colombia. 2011
     - src: images/slides/Sierra.jpg
