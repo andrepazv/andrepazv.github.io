@@ -61,19 +61,21 @@
   bullets: true
   images:
     - src: images/slides/field/arusi.jpg
-      alt: 
-    - src: images/slides/field/arusi.jpg
-      alt: 
-    - src: images/slides/field/arusi.jpg
-      alt: 
-    - src: images/slides/field/arusi.jpg
-      alt: 
-    - src: images/slides/field/arusi.jpg
-      alt: 
-    - src: images/slides/field/arusi.jpg
-      alt: 
-    - src: images/slides/field/arusi.jpg
-      alt: 
+      alt: Arusí, Chocó, Colombia. 2011 Photo by Lucas Barrientos
+    - src: images/slides/field/sanjuan.jpg
+      alt: San Juan de Arama, Meta, Colombia. 2011. Photo by Vicky Flechas
+    - src: images/slides/field/sierra.jpg
+      alt: Sierra Nevada de Santa Marta, Colombia. 2010 Photo by Dan Moen
+    - src: images/slides/field/cordoba.jpg
+      alt: Montelíbano, Córdoba, Colombia. 2010 Photo by Dan Moen
+    - src: images/slides/field/sumapaz2.jpg
+      alt: Batallón de Alta Montaña, Sumapaz, Colombia. 2017 Photo by Eloisa Lasso
+    - src: images/slides/field/sumapaz.jpg
+      alt: Batallón de Alta Montaña, Sumapaz, Colombia. 2017 Photo by Lucas Barrientos
+    - src: images/slides/field/Rasgon.jpg
+      alt: El Rasgón, Santander, Colombia. 2011. Photo by Andrew Crawford
+    - src: images/slides/field/gorgona.jpg
+      alt: Gorgona, Colombia. 2012 Photo by Carlos Guarnizo
   settings:
     height: "'auto'"
     effect: "'fade'"
