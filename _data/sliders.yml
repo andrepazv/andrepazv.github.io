@@ -54,3 +54,26 @@
   settings:
     height: "'auto'"
     effect: "'fade'"
+    
+# Slider with fieldwork pics
+- selector: Landscape
+  captions: true
+  bullets: true
+  images:
+    - src: images/slides/field/arusi.jpg
+      alt: 
+    - src: images/slides/field/arusi.jpg
+      alt: 
+    - src: images/slides/field/arusi.jpg
+      alt: 
+    - src: images/slides/field/arusi.jpg
+      alt: 
+    - src: images/slides/field/arusi.jpg
+      alt: 
+    - src: images/slides/field/arusi.jpg
+      alt: 
+    - src: images/slides/field/arusi.jpg
+      alt: 
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
