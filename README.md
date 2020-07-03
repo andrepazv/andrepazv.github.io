@@ -1,120 +1,212 @@
-> March, 2016: If you're on an old version of Jekyll Now and run into a) build warnings or b) syntax highlighting issues caused by [Jekyll 3 and GitHub Pages updates](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0), just :sparkles:[update your _config.yml](https://github.com/barryclark/jekyll-now/pull/445/files):sparkles: and you'll be set!
+# Ideal Image Slider
 
-# Jekyll Now
+The aim behind the Ideal Image Slider is to create a slider which has just the right amount of features,
+with no bloat and be easy to extend so that more features can be added as "extensions". Here are the ideals
+and core features I wanted to include:
 
-**Jekyll** is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll))
+* HTML5 (SEO optimised)
+* CSS3 transitions (a few simple transitions like slide/fade)
+* Left/Right navigation (including touch/swipe support)
+* Responsive
+* HiDPI (retina) support
+* ARIA support
+* Extremely simple to setup (no dependencies)
+* Very extensible
+* Uses progressive enhancement
+* Open source (goes without saying)
 
-**Jekyll Now** makes it easier to create your Jekyll blog, by eliminating a lot of the up front setup.
+And, as an example, here are some features that *should not* be in the core and could be optional extensions:
 
-- You don't need to touch the command line
-- You don't need to install/configure ruby, rvm/rbenv, ruby gems :relaxed:
-- You don't need to install runtime dependencies like markdown processors, Pygments, etc
-- If you're on Windows, this will make setting up Jekyll a lot easier
-- It's easy to try out, you can just delete your forked repository if you don't like it
+* Themes or skins
+* More transitions
+* Bullet navigation
+* Thumbnail navigation
+* Full screen slider
+* Video/Audio support
+* etc...
 
-In a few minutes you'll be set up with a minimal, responsive blog like the one below giving you more time to spend on writing epic blog posts!
+[Read the original blog post &rarr;](http://gilbert.pellegrom.me/the-ideal-image-slider)
 
-![Jekyll Now Theme Screenshot](/images/jekyll-now-theme-screenshot.jpg "Jekyll Now Theme Screenshot")
+## Demos
 
-## Quick Start
+* [Standard Slider](http://idealimageslider.com/demo/standard-slider.html)
+* [With Links](http://idealimageslider.com/demo/links.html)
+* [Using the API](http://idealimageslider.com/demo/using-the-api.html)
+* [Using Events](http://idealimageslider.com/demo/using-events.html)
+* [Multiple Sliders](http://idealimageslider.com/demo/multiple-sliders.html)
 
-### Step 1) Fork Jekyll Now to your User Repository
+## Extensions
 
-Fork this repo, then rename the repository to yourgithubusername.github.io.
+* [Bullet Navigation](https://github.com/gilbitron/Ideal-Image-Slider/tree/master/extensions/bullet-nav)
+* [Captions](https://github.com/gilbitron/Ideal-Image-Slider/tree/master/extensions/captions)
+* [Third Party Extensions](https://github.com/gilbitron/Ideal-Image-Slider/wiki/Third-Party-Extensions)
 
-Your Jekyll blog will often be viewable immediately at <https://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 2)
+## Requirements
 
-![Step 1](/images/step1.gif "Step 1")
+* **None**
 
-### Step 2) Customize and view your site
+Ideal Image Slider is written in vanilla JS and has no dependancies.
 
-Enter your site name, description, avatar and many other options by editing the _config.yml file. You can easily turn on Google Analytics tracking, Disqus commenting and social icons here too.
+## Getting Started
 
-Making a change to _config.yml (or any file in your repository) will force GitHub Pages to rebuild your site with jekyll. Your rebuilt site will be viewable a few seconds later at <https://yourgithubusername.github.io> - if not, give it ten minutes as GitHub suggests and it'll appear soon
+To install the slider you can either manually download this repository or you can use [Bower](http://bower.io)
+and run the following command:
 
-> There are 3 different ways that you can make changes to your blog's files:
+```
+bower install ideal-image-slider --save
+```
 
-> 1. Edit files within your new username.github.io repository in the browser at GitHub.com (shown below).
-> 2. Use a third party GitHub content editor, like [Prose by Development Seed](http://prose.io). It's optimized for use with Jekyll making markdown editing, writing drafts, and uploading images really easy.
-> 3. Clone down your repository and make updates locally, then push them to your GitHub repository.
+Next you need to include the CSS file in the `<head>` section of your HTML and you need to include the script
+before the `</body>` tag in your HTML. Note you can optionally include a theme CSS file in the `<head>` too.
 
-![_config.yml](/images/config.png "_config.yml")
+```html
+<html>
+<head>
+	...
+	<link rel="stylesheet" href="/path/to/ideal-image-slider.css">
+	<link rel="stylesheet" href="/path/to/themes/default/default.css">
+	...
+</head>
+<body>
+	...
+	<script src="/path/to/ideal-image-slider.js"></script>
+</body>
+</html>
+```
 
-### Step 3) Publish your first blog post
+Next you need to set up your slider HTML where you want it to appear in your page. It should look something
+like this:
 
-Edit `/_posts/2014-3-3-Hello-World.md` to publish your first blog post. This [Markdown Cheatsheet](http://www.jekyllnow.com/Markdown-Style-Guide/) might come in handy.
+```html
+<div id="slider">
+	<img src="img/1.jpg" alt="Minimum required attributes">
+	<img data-src="img/2.jpg" src="" alt="Use data-src for on-demand loading">
+	<img data-src="img/3.jpg" data-src-2x="img/3@2x.jpg" src="" alt="Use data-src-2x for HiDPI devices">
+	<a href="http://example.com"><img data-src="img/4.jpg" src="" alt="Links work too"></a>
+	...
+</div>
+```
 
-![First Post](/images/first-post.png "First Post")
+There a few things to note about the structure of the images in your slider:
 
-> You can add additional posts in the browser on GitHub.com too! Just hit the + icon in `/_posts/` to create new content. Just make sure to include the [front-matter](http://jekyllrb.com/docs/frontmatter/) block at the top of each new blog post and make sure the post's filename is in this format: year-month-day-title.md
+* This is an image slider, so only images are supported. Any other content will be removed.
+* You can use the `data-src` attribute to load your images "on-demand" (i.e. images are not loaded until they are required).
+* The first image should not use `data-src` so it is loaded if no JS is detected.
+* If you specify a `data-src-2x` image, it will be used on devices that support HiDPI (such as Apple's retina devices).
 
-## Local Development
+Finally you can create your slider by using the following Javascript:
 
-1. Install Jekyll and plug-ins in one fell swoop. `gem install github-pages` This mirrors the plug-ins used by GitHub Pages on your local machine including Jekyll, Sass, etc.
-2. Clone down your fork `git clone https://github.com/yourusername/yourusername.github.io.git`
-3. Serve the site and watch for markup/sass changes `jekyll serve`
-4. View your website at http://127.0.0.1:4000/
-5. Commit any changes and push everything to the master branch of your GitHub user repository. GitHub Pages will then rebuild and serve your website.
+```js
+new IdealImageSlider.Slider('#slider');
+```
 
-## Moar!
+If you want to tweak the settings or use the slider API it would look more like:
 
-I've created a more detailed walkthrough, [**Build A Blog With Jekyll And GitHub Pages**](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/) over at the Smashing Magazine website. Check it out if you'd like a more detailed walkthrough and some background on Jekyll. :metal:
+```js
+var slider = new IdealImageSlider.Slider({
+	selector: '#slider',
+	height: 400, // Required but can be set by CSS
+	interval: 4000
+});
+slider.start();
+```
 
-It covers:
+Note: If you don't pass a `height` to the Javascript constructor you **must** set it
+in your CSS.
 
-- A more detailed walkthrough of setting up your Jekyll blog
-- Common issues that you might encounter while using Jekyll
-- Importing from Wordpress, using your own domain name, and blogging in your favorite editor
-- Theming in Jekyll, with Liquid templating examples
-- A quick look at Jekyll 2.0’s new features, including Sass/Coffeescript support and Collections
+## Settings
 
-## Jekyll Now Features
+|Setting|Default Value|Description|
+|---|---|---|
+|selector|`''`|CSS selector for the slider|
+|height|`'auto'`|Height of the slider. Can be `'auto'` (height changes depending on the height of the slide), a fixed px value (e.g. `400`) or an aspect ratio (e.g. `'16:9'`)|
+|initialHeight|`400`|If height is `'auto'` or an aspect ratio this is the height of the slider while the first image is loading|
+|maxHeight|`null`|If height is `'auto'` or an aspect ratio this is an optional max height in px for the slider (e.g. `800`)|
+|interval|`4000`|Time (in ms) to wait before changing to the next slide|
+|transitionDuration|`700`|Duration (in ms) of animated transition|
+|effect|`'slide'`|Transition effect (slide/fade by default)|
+|disableNav|`false`|Toggle the previous/next navigation (also disables touch and keyboard navigation)|
+|keyboardNav|`true`|Toggle keyboard navigation|
+|previousNavSelector|`''`|Selector for custom previous nav element|
+|nextNavSelector|`''`|Selector for custom next nav element|
+|classes|`{...}`|List of classes to be used by slider. Probably shouldn't be changed|
 
-✓ Command-line free _fork-first workflow_, using GitHub.com to create, customize and post to your blog  
-✓ Fully responsive and mobile optimized base theme (**[Theme Demo](http://jekyllnow.com)**)  
-✓ Sass/Coffeescript support using Jekyll 2.0  
-✓ Free hosting on your GitHub Pages user site  
-✓ Markdown blogging  
-✓ Syntax highlighting  
-✓ Disqus commenting  
-✓ Google Analytics integration  
-✓ SVG social icons for your footer  
-✓ 3 http requests, including your avatar  
+## Events
 
-✘ No installing dependencies
-✘ No need to set up local development  
-✘ No configuring plugins  
-✘ No need to spend time on theming  
-✘ More time to code other things ... wait ✓!  
+Event callback functions can be passed in with the settings. For example:
 
-## Questions?
+```js
+new IdealImageSlider.Slider({
+	selector: '#slider',
+	onStart: function(){
+		console.log('onStart');
+	}
+});
+```
 
-[Open an Issue](https://github.com/barryclark/jekyll-now/issues/new) and let's chat!
+|Event|Description|
+|---|---|
+|onInit|Callback that fires when slider and first image have loaded|
+|onStart|Callback that fires when slider has started playing|
+|onStop|Callback that fires when slider has stopped playing|
+|onDestroy|Callback that fires when slider is destroyed|
+|beforeChange|Callback that fires before a slide has changed|
+|afterChange|Callback that fires after a slide has changed|
 
-## Other forkable themes
+## API
 
-You can use the [Quick Start](https://github.com/barryclark/jekyll-now#quick-start) workflow with other themes that are set up to be forked too! Here are some of my favorites:
+To use the API methods you must store the slider object. For example:
 
-- [Hyde](https://github.com/poole/hyde) by MDO
-- [Lanyon](https://github.com/poole/lanyon) by MDO
-- [mojombo.github.io](https://github.com/mojombo/mojombo.github.io) by Tom Preston-Werner
-- [Left](https://github.com/holman/left) by Zach Holman
-- [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) by Michael Rose
-- [Skinny Bones](https://github.com/mmistakes/skinny-bones-jekyll) by Michael Rose
+```js
+var slider = new IdealImageSlider.Slider('#slider');
+slider.start();
+```
+
+|Method|Description|
+|---|---|
+|start()|Start the slider. Note the slider will automatically be stopped when navigation is used|
+|stop()|Stop the slider|
+|previousSlide()|Change to the previous slide|
+|nextSlide()|Change to the next slide|
+|gotoSlide(index)|Change to a specific slide (1 indexed)|
+|destroy()|Destroy the slider|
+|get(attribute)|Get an attribute value (attributes are mostly used internally)|
+|set(attribute, value)|Set an attribute. Can be useful for storing custom data|
+
+## Browsers
+
+Ideal Image Slider has been tested on:
+
+* Chrome
+* Firefox
+* Safari (Desktop + Mobile)
+* Opera
+* IE9+
+
+## Contribute
+
+So you want to help out? That's awesome. Here is how you can do it:
+
+* [Report a bug](https://github.com/gilbitron/Ideal-Image-Slider/labels/bug)
+* [Ask for a feature](https://github.com/gilbitron/Ideal-Image-Slider/labels/enhancement)
+* [Submit a pull request](https://github.com/gilbitron/Ideal-Image-Slider/pulls)
+
+If you are submitting a pull request please adhere to the existing coding standards used throughout the code
+and only submit **1 feature/fix per pull request**. Pull requests containing multiple changes will be rejected.
+
+Note that if you submit a pull request you are aware that you are contributing to both the free (open source) version
+and the proprietary (commercial) version of the codebase and that your work may make money for Dev7studios.
 
 ## Credits
 
-- [Jekyll](https://github.com/jekyll/jekyll) - Thanks to its creators, contributors and maintainers.
-- [SVG icons](https://github.com/neilorangepeel/Free-Social-Icons) - Thanks, Neil Orange Peel. They're beautiful.
-- [Solarized Light Pygments](https://gist.github.com/edwardhotchkiss/2005058) - Thanks, Edward.
-- [Joel Glovier](http://joelglovier.com/writing/) - Great Jekyll articles. I used Joel's feed.xml in this repository.
-- [David Furnes](https://github.com/dfurnes), [Jon Uy](https://github.com/jonuy), [Luke Patton](https://github.com/lkpttn) - Thanks for the design/code reviews.
-- [Bart Kiers](https://github.com/bkiers), [Florian Simon](https://github.com/vermluh), [Henry Stanley](https://github.com/henryaj), [Hun Jae Lee](https://github.com/hunjaelee), [Javier Cejudo](https://github.com/javiercejudo), [Peter Etelej](https://github.com/etelej), [Ben Abbott](https://github.com/jaminscript), [Ray Nicholus](https://github.com/rnicholus), [Erin Grand](https://github.com/eringrand), [Léo Colombaro](https://github.com/LeoColomb), [Dean Attali](https://github.com/daattali), [Clayton Errington](https://github.com/cjerrington), [Colton Fitzgerald](https://github.com/coltonfitzgerald), [Trace Mayer](https://github.com/sunnankar) - Thanks for your [fantastic contributions](https://github.com/barryclark/jekyll-now/commits/master) to the project!
+Ideal Image Slider was created by [Gilbert Pellegrom](http://gilbert.pellegrom.me) from
+[Dev7studios](http://dev7studios.com). Released under the [GPL license](https://raw.githubusercontent.com/gilbitron/Ideal-Image-Slider/master/LICENSE).
 
-## Contributing
+## Other Projects
 
-Issues and Pull Requests are greatly appreciated. If you've never contributed to an open source project before I'm more than happy to walk you through how to create a pull request.
+Check-out other stuff that we are working on : 
 
-You can start by [opening an issue](https://github.com/barryclark/jekyll-now/issues/new) describing the problem that you're looking to resolve and we'll go from there.
-
-I want to keep Jekyll Now as minimal as possible. Every line of code should be one that's useful to 90% of the people using it. Please bear that in mind when submitting feature requests. If it's not something that most people will use, it probably won't get merged. :guardsman:
+* [ThemeIsle](https://themeisle.com)
+* [Codeinwp](https://codeinwp.com/blog/)
+* [Revive.social](https://revive.social)
+* [Mystock.photos](http://mystock.photos)
