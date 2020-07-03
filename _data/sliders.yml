@@ -56,7 +56,7 @@
     effect: "'fade'"
     
 # Slider with fieldwork pics
-- selector: Landscape
+- selector: Field
   captions: true
   bullets: true
   images:
