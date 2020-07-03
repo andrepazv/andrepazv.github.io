@@ -4,10 +4,16 @@
   images:
     - src: images/slides/Arusi.jpg
       alt: Oophaga histrionica. Arusí, Chocó, Colombia. 2011
-    - src: example/img/2.jpg
-      alt: image two
-    - src: example/img/3.jpg
+    - src: images/slides/F_guiana.jpg
+      alt: Kourou, French Guiana. 2013
+    - src: images/slides/Gorgona.jpg
+      alt: Atelopus spurrrelli. Arusí, Chocó, Colombia. 2011
+    - src: images/slides/Madagascar.jpg
       alt: image three
+    - src: images/slides/Palomino.jpg
+      alt: <i>Boana xerophylla</i>. Palomino, Guajira, Colombia. 2011
+    - src: images/slides/Sierra.jpg
+      alt: Sierra Nevada de Santa Marta, Colombia. 2010
   settings:
     height: "'auto'"
     effect: "'fade'"
