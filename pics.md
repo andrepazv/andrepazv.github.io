@@ -24,13 +24,15 @@ This site is under construction! More pics will be added soon :-)
 <br>
 <a name="Field"></a>
 <strong> Field work </strong>
-<br>
+
+
 {% include slider.html selector="Field" %}
+
 
 <br>
 <a name="Landscapes"></a>
 <strong> Landscapes </strong>
-<br>
+
 
 
 {% include slider.html selector="Landscape" %}
