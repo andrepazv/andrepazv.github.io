@@ -25,7 +25,8 @@ permalink: /publications/
 <a name="2020"></a>
 <h3><strong><span style="color: #993366;">2020 </span></strong></h3>  
 Brown J., <strong>Paz A.</strong>, Reginato M., Amaro C., Assis R., Lyra M., Caddah M., Aguirre-Santoro J., D’Horta F., Amaral F.R. do, Goldenberg R., Silva-Brandão K.L., Freitas A., Rodrigues M., Michelangeli F.A., Miyaki C., & Carnaval A. (2020). Seeing the forest through many trees: multi-taxon patterns of phylogenetic diversity in the Atlantic Forest hotspot. Diversity and Distributions, Online early. [[Get]](https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.13116){:target="_blank"}  
-
+<br>  
+&nbsp; &nbsp;  
 <table align="left">
   <tr><td style="width:80%;height:100%;vertical-align: middle;"><strong>Paz A</strong>, Reginato M, Michelangeli FA, Goldenberg R, Caddah MK, Aguirre-Santoro J, Kaehler M, Lohmann LG, Carnaval AC. (2020). Predicting patterns of plant diversity and endemism in the tropics using remote sensing data: A study case from the Brazilian Atlantic rainforest. In:<i> Remote Sensing of Plant Biodiversity </i>. (eds Cavender-Bares J, Gamon J, Townsend P), pp. 255–266 Springer, Cham.<a href="https://link.springer.com/chapter/10.1007/978-3-030-33157-3_11" target="_blank">[Get]</a></td><td style="height:70%;vertical-align: middle;"><img src="/images/book_RSplants.png" height="210" alt="cover"/></td></tr>
 </table>
