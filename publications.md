@@ -24,11 +24,11 @@ permalink: /publications/
 
 <a name="2020"></a>
 <h3><strong><span style="color: #993366;">2020 </span></strong></h3>  
-Brown J., <strong>Paz A.</strong>, Reginato M., Amaro C., Assis R., Lyra M., Caddah M., Aguirre-Santoro J., D’Horta F., Amaral F.R. do, Goldenberg R., Silva-Brandão K.L., Freitas A., Rodrigues M., Michelangeli F.A., Miyaki C., & Carnaval A. (2020). Seeing the forest through many trees: multi-taxon patterns of phylogenetic diversity in the Atlantic Forest hotspot. <i>Diversity and Distributions</i>. Online early. [[Get]](https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.13116){:target="_blank"}  
+Brown J., <strong>Paz A.</strong>, Reginato M., Amaro C., Assis R., Lyra M., Caddah M., Aguirre-Santoro J., D’Horta F., Amaral F.R. do, Goldenberg R., Silva-Brandão K.L., Freitas A., Rodrigues M., Michelangeli F.A., Miyaki C., & Carnaval A. (2020). Seeing the forest through many trees: multi-taxon patterns of phylogenetic diversity in the Atlantic Forest hotspot. <i>Diversity and Distributions</i>. Online early. [[Full text]](https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.13116){:target="_blank"}  
 <br>  
 &nbsp; &nbsp;  
 <table align="left">
-  <tr><td style="width:80%;height:100%;vertical-align: middle;"><strong>Paz A</strong>, Reginato M, Michelangeli FA, Goldenberg R, Caddah MK, Aguirre-Santoro J, Kaehler M, Lohmann LG, Carnaval AC. (2020). Predicting patterns of plant diversity and endemism in the tropics using remote sensing data: A study case from the Brazilian Atlantic rainforest. In:<i> Remote Sensing of Plant Biodiversity </i>. (eds Cavender-Bares J, Gamon J, Townsend P), pp. 255–266 Springer, Cham.<a href="https://link.springer.com/chapter/10.1007/978-3-030-33157-3_11" target="_blank">[Get]</a></td><td style="height:70%;vertical-align: middle;"><img src="/images/book_RSplants.png" height="210" alt="cover"/></td></tr>
+  <tr><td style="width:80%;height:100%;vertical-align: middle;"><strong>Paz A</strong>, Reginato M, Michelangeli FA, Goldenberg R, Caddah MK, Aguirre-Santoro J, Kaehler M, Lohmann LG, Carnaval AC. (2020). Predicting patterns of plant diversity and endemism in the tropics using remote sensing data: A study case from the Brazilian Atlantic rainforest. In:<i> Remote Sensing of Plant Biodiversity </i>. (eds Cavender-Bares J, Gamon J, Townsend P), pp. 255–266 Springer, Cham.<a href="https://link.springer.com/chapter/10.1007/978-3-030-33157-3_11" target="_blank">[Full text]</a></td><td style="height:70%;vertical-align: middle;"><img src="/images/book_RSplants.png" height="210" alt="cover"/></td></tr>
 </table>
 <br>  
 &nbsp; &nbsp;  
@@ -40,7 +40,7 @@ Betancourth-Cundar M, Palacios-Rodriguez P, Mejia-Vargas D, <strong>Paz A</stron
 <a name="2019"></a>
 <h3><strong><span style="color: #993366;">2019</span></strong></h3>
 
-<b>Paz A</b>, <b></b>Guarnizo CE. (2019).<b></b>Environmental ranges estimated from species distribution models are not good predictors of lizards and frogs physiological tolerances. <i>Evolutionary ecology. </i>34(1):89-99 [[Get]](https://link.springer.com/article/10.1007/s10682-019-10022-3){:target="_blank"}
+<b>Paz A</b>, <b></b>Guarnizo CE. (2019).<b></b>Environmental ranges estimated from species distribution models are not good predictors of lizards and frogs physiological tolerances. <i>Evolutionary ecology. </i>34(1):89-99 [[Full text]](https://link.springer.com/article/10.1007/s10682-019-10022-3){:target="_blank"}
 
 Prates I, <strong>Paz A</strong>, Brown JL, Carnaval A. (2019). Links between prey assemblages and poison frog toxins: a landscape ecology approach to assess how biotic interactions affect species phenotypes. <em>Ecology and Evolution</em>. 9(24):14317-14329 [[Full text]](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.5867?utm_campaign=Feed%3A+EcologyAndEvolution+%28Ecology+and+Evolution%29&amp;af=R&amp;utm_medium=feed&amp;utm_content=FeedBurner&amp;utm_source=feedburner){:target="_blank"}
 
