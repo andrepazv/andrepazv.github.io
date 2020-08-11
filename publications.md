@@ -40,7 +40,7 @@ Betancourth-Cundar M, Palacios-Rodriguez P, Mejia-Vargas D, <strong>Paz A</stron
 <a name="2019"></a>
 <h3><strong><span style="color: #993366;">2019</span></strong></h3>
 
-<b>Paz A</b>, <b></b>Guarnizo CE. (2019).<b></b>Environmental ranges estimated from species distribution models are not good predictors of lizards and frogs physiological tolerances. <i>Evolutionary ecology. </i>34(1):89-99 [[Full text]](https://link.springer.com/article/10.1007/s10682-019-10022-3){:target="_blank"}
+<b>Paz A</b>, <b></b>Guarnizo CE. (2019).<b></b>Environmental ranges estimated from species distribution models are not good predictors of lizards and frogs physiological tolerances. <i>Evolutionary ecology. </i>34(1):89-99 [[Get]](https://link.springer.com/article/10.1007/s10682-019-10022-3){:target="_blank"}
 
 Prates I, <strong>Paz A</strong>, Brown JL, Carnaval A. (2019). Links between prey assemblages and poison frog toxins: a landscape ecology approach to assess how biotic interactions affect species phenotypes. <em>Ecology and Evolution</em>. 9(24):14317-14329 [[Full text]](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.5867?utm_campaign=Feed%3A+EcologyAndEvolution+%28Ecology+and+Evolution%29&amp;af=R&amp;utm_medium=feed&amp;utm_content=FeedBurner&amp;utm_source=feedburner){:target="_blank"}
 
