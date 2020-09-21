@@ -30,6 +30,8 @@ with [Portuguese subtitles](https://youtu.be/Sjk5zWun74U){:target="_blank"}.
 <br>
 <br>
 <br>
+<br>
+<br>
 
 <strong>A sci comm video about [our work](/publications/#2020) on collective property in Afro-Colombian communities and deforestation with the amazing Ciencia Café Pa' Sumercé (In spanish):</strong>  
 <br>
