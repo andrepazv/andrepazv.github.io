@@ -16,13 +16,16 @@ This page has a small compilation of some efforts I have made to communicate sci
 <h3><span style="color: #993366;">Contributions to SciComm initiatives</span></h3>
 <a name="Video"></a>
 <strong>A sci comm video about [our work](/publications/#2020) on the environmental correlates of diversity in the Brazilian Atlantic Forest (In English):</strong> 
-<img align="float left" src="/images/video_humboldt.jpg" width="400">
+<img style="float:left" src="/images/video_humboldt.jpg" width="400">
 [In English](https://youtu.be/dPCutfulMVc){:target="_blank"}
 <br>
 with [Spanish subtitles](https://youtu.be/HbKcDt2TeWs){:target="_blank"}, 
 <br>
 with [Portuguese subtitles](https://youtu.be/Sjk5zWun74U){:target="_blank"}.
 <br>
+<br>
+<br>
+
 <strong>A sci comm video about [our work](/publications/#2020) on collective property in Afro-Colombian communities and deforestation with the amazing Ciencia Café Pa' Sumercé (In spanish):</strong>  
 <br>
 [<img align="center" src="/images/CienciaCafe.jpg" width="400">](https://www.youtube.com/watch?v=EXDzZW6zUX8&t=2s){:target="_blank"}
