@@ -77,8 +77,7 @@ body {
 <li> Miguel Banoy, BSc in Biology at Universidad Militar Nueva Granada (Co-advisor with Dr. Nelsy R. Pinto). Thesis: Effect of climate change on the distribution of high elevation amphibians in Colombia. 2019-2020 </li>
 </div>
 <br>
-<a name="Talks"></a>
-<a name="Invited seminars/lectures"></a>
+<a name="talks"></a>
 <div class="subsection">  
 <strong><span style="color: #993366">Invited lectures</span></strong> 
   
