@@ -79,15 +79,24 @@ body {
 <br>
 <a name="talks"></a>
 <div class="subsection">  
-<strong><span style="color: #993366">Invited lectures</span></strong> 
+  
+<strong><span style="color: #993366">Invited Seminars</span></strong>
   
 <li> Observando la biodiversidad desde el espacio. Seminario del Instituto de Biología de la Universidad Nacional Autónoma de México. October 2020. <a href="https://www.youtube.com/watch?v=a5AawUkeTOA" target="_blank">[Video in spanish]</a> </li>
 
-<li> Aplicaciones de modelos de distribución de especies en biología evolutiva at Universidad Militar Nueva Granada. For Tópicos Avanzados en Cambio Climático invited by Dr. Nelsy R. Pinto. October 22nd 2020 </li>
-
-<li>Aplicaciones de modelos de distribución de especies en biología evolutiva at Universidad de Pamplona. Curso introductorio de Modelado de Nicho Ecológico y de Distribución de especies invited by Grupo de Investigación en Ecología y Biogeografía. November 12th 2020</li>
+<strong><span style="color: #993366">Invited lectures</span></strong> 
+ 
+ <li>Aplicaciones de modelos de distribución de especies en biología evolutiva at Universidad de Pamplona. Curso introductorio de Modelado de Nicho Ecológico y de Distribución de especies invited by Grupo de Investigación en Ecología y Biogeografía. November 12th 2020</li>
 
 <li>Observing biodiversity from space. Ecología de Comunidades at Pontificia Universidad Javierana invited by Dr. Sandra V.Flechas. November 11th 2020 </li>
+
+<li> Aplicaciones de modelos de distribución de especies en biología evolutiva at Universidad Militar Nueva Granada. For Tópicos Avanzados en Cambio Climático invited by Dr. Nelsy R. Pinto. October 22nd 2020 </li>
+
+
+
+
+
+
 </div>
 
 </body>
