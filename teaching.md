@@ -61,7 +61,7 @@ body {
 <div class="subsection">  
 <strong><span style="color: #993366">Volunteer mentor, supporting girls and women in STEM</span></strong>  
 <br>
-<strong>	Mentor, <a href="https://www.nyas.org/programs/global-stem-alliance/1000-girls-1000-futures/" target="_blank">[1000 Girls, 1000 Futures]</a>.</strong> New York Academy of Sciences (NYAS). Virtually meeting with one high school mentee (from overseas) on a regular basis to talk about life as a woman in STEM and help in completing the NYAS course. 2018-2019  
+<strong>	Mentor, <a href="https://www.nyas.org/programs/global-stem-alliance/1000-girls-1000-futures/" target="_blank">[1000 Girls, 1000 Futures]</a>.</strong> New York Academy of Sciences (NYAS). Virtually meeting with one high school mentee (from overseas) on a regular basis to talk about life as a woman in STEM and help in completing the NYAS course. 2018-Present  
 <br>
 <strong>	Mentor, <a href="https://ccnywins.wixsite.com/womeninscience" target="_blank">[CCNY Women in Science]</a>.</strong> The City College of New York, New York, NY. Meeting with one undergraduate mentee on a regular basis to talk about life as a woman in STEM. Fall 2015-Spring 2016
 </div>
@@ -77,9 +77,11 @@ body {
 <li> Miguel Banoy, BSc in Biology at Universidad Militar Nueva Granada (Co-advisor with Dr. Nelsy R. Pinto). Thesis: Effect of climate change on the distribution of high elevation amphibians in Colombia. 2019-2020 </li>
 </div>
 <br>
-<a name="Invited lectures"></a>
+<a name="Invited seminars/lectures"></a>
 <div class="subsection">  
-<strong><span style="color: #993366">Invited lectures</span></strong>  
+<strong><span style="color: #993366">Invited lectures</span></strong> 
+  
+<li> Observando la biodiversidad desde el espacio. Seminario del Instituto de Biología de la Universidad Nacional Autónoma de México. October 2020. <a href="https://www.youtube.com/watch?v=a5AawUkeTOA" target="_blank">[Video in spanish]</a> </li>
 
 <li> Aplicaciones de modelos de distribución de especies en biología evolutiva at Universidad Militar Nueva Granada. For Tópicos Avanzados en Cambio Climático invited by Dr. Nelsy R. Pinto. October 22nd 2020 </li>
 
