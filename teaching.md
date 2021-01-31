@@ -53,6 +53,12 @@ body {
    <br>
  </table>
   &nbsp;
+    <table align="left">
+   <caption style="text-align:left"><strong>Modelación de distribución de especies BÁSICO y amigable (integrando BioModelos y Wallace)</strong></caption>
+ <tr><td style="width:65%;height:100%;vertical-align: middle;"> Maestría en Conservación y Uso de la Biodvidersidad, Pontificia Universidad Javeriana, Bogota, Colombia. January 2021. Click <a href="https://wallaceecomod.github.io" target="_blank">[here]</a> for more on Wallace. Co-organized with: María Angela Echeverry, Elkin Noguera-Urbano & Nicolas Urbina.</td><td style="width:35%;vertical-align: middle;"><img src="/images/PUJ.jpg"/></td></tr>
+   <br>
+ </table>
+  &nbsp;
 &nbsp;
 <br>
 </div>
